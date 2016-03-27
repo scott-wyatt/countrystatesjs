@@ -148,20 +148,6 @@ country.altSpellings('US') // Defaults to 'ISO2'
 // ["US", "USA", "United States of America"]
 ```
 
-### `.ISOcodes()`
-
-Returns ISO codes for a specified country
-
-```javascript
-var country = require('countrystatesjs');
-country.ISOcodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.ISOcodes('US') // Defaults to 'ISO2'
-// returns object of ISO codes
-// {
-//   "alpha2": "US",
-//   "alpha3": "USA"
-// }
-```
 ### `.all()`
 
 Return all country data. This will be super big. Not recommended.
@@ -180,6 +166,40 @@ country.all();
 //     "states": [], // State/Province list
 // }...]
 ```
+
+## Completeness
+This module currently has states and provinces for:
+
+united states (US)
+united kingdom (GB)
+canada (CA)
+mexico (MX)
+australia (AU)
+china (CN)
+germany (DE)
+belgium (BE)
+netherlands (NL)
+denmark (DK)
+Turkey (TR)
+Indonesia (ID)
+Jordan (JO)
+India (IN)
+Cambodia (KH)
+Ethiopia (ET)
+Peru (PE)
+Cuba (CU)
+Argentina (AR)
+Chile (CL)
+Bolivia (BO)
+Spain (ES)
+Bangladesh (BD)
+Pakistan (PK)
+Nigeria (NG)
+Japan (JP)
+austria (AT)
+brazil (BR)
+Philippines (PH)
+Vietnam (VN)
 
 ## Special Thanks
 
