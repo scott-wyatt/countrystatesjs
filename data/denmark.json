@@ -1,0 +1,12 @@
+{
+	"name":"Denmark",
+	"altSpellings":["DK","Danmark","Kingdom of Denmark","Kongeriget Danmark"],
+	"ISO":{"alpha2":"DK","alpha3":"DNK"},
+	"states": [
+		{"name":"Hovedstaden","country":"DK"},
+		{"name":"Midtjylland","country":"DK"},
+		{"name":"Nordjylland","country":"DK"},
+		{"name":"Sjælland","country":"DK"},
+		{"name":"Syddanmark","country":"DK"}
+	]
+}

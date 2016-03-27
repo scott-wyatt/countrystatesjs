@@ -1,0 +1,20 @@
+{
+	"name":"Canada",
+	"altSpellings":["CA"],
+	"ISO":{"alpha2":"CA","alpha3":"CAN"},
+	"states": [
+		{"abbreviation":"AB","name":"Alberta","country":"CA"},
+		{"abbreviation":"BC","name":"British Columbia","country":"CA"},
+		{"abbreviation":"MB","name":"Manitoba","country":"CA"},
+		{"abbreviation":"NB","name":"New Brunswick","country":"CA"},
+		{"abbreviation":"NL","name":"Newfoundland and Labrador","country":"CA","alt":["Newfoundland","Labrador"]},
+		{"abbreviation":"NS","name":"Nova Scotia","country":"CA"},
+		{"abbreviation":"NU","name":"Nunavut","country":"CA"},
+		{"abbreviation":"NW","name":"Northwest Territories","country":"CA"},
+		{"abbreviation":"ON","name":"Ontario","country":"CA"},
+		{"abbreviation":"PE","name":"Prince Edward Island","country":"CA"},
+		{"abbreviation":"QC","name":"Quebec","country":"CA"},
+		{"abbreviation":"SK","name":"Saskatchewan","country":"CA"},
+		{"abbreviation":"YU","name":"Yukon","country":"CA"}
+	]
+}

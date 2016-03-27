@@ -1,0 +1,23 @@
+{
+	"name":"Cuba",
+	"altSpellings":["CU","Republic of Cuba","República de Cuba"],
+	"ISO":{"alpha2":"CU","alpha3":"CUB"},
+	"states": [
+		{ "name": "Camagüey", "country": "CU" },
+		{ "name": "Ciego de Ávila", "country": "CU" },
+		{ "name": "Cienfuegos", "country": "CU" },
+		{ "name": "Havana", "country": "CU" },
+		{ "name": "Bayamo", "country": "CU" },
+		{ "name": "Guantánamo", "country": "CU" },
+		{ "name": "Holguín", "country": "CU" },
+		{ "name": "Nueva Gerona", "country": "CU" },
+		{ "name": "Artemisa", "country": "CU" },
+		{ "name": "Las Tunas", "country": "CU" },
+		{ "name": "Matanzas", "country": "CU" },
+		{ "name": "San José de las Lajas", "country": "CU" },
+		{ "name": "Pinar del Río", "country": "CU" },
+		{ "name": "Sancti Spíritus", "country": "CU" },
+		{ "name": "Santiago de Cuba", "country": "CU" },
+		{ "name": "Santa Clara", "country": "CU" }
+	]
+}

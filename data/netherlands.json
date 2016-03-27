@@ -1,0 +1,25 @@
+{
+	"name":"Netherlands",
+	"altSpellings":["NL","Holland","Nederland"],
+	"ISO":{"alpha2":"NL","alpha3":"NLD"},
+	"states": [
+		{"abbreviation":"DR","name":"Drenthe","country":"NL"},
+		{"abbreviation":"FL","name":"Flevoland","country":"NL"},
+		{"abbreviation":"FR","name":"Friesland","country":"NL"},
+		{"abbreviation":"GD","name":"Gelderland","country":"NL"},
+		{"abbreviation":"GR","name":"Groningen","country":"NL"},
+		{"abbreviation":"LB","name":"Limburg","country":"NL"},
+		{"abbreviation":"NB","name":"Noord-Brabant","country":"NL"},
+		{"abbreviation":"NH","name":"Noord-Holland","country":"NL"},
+		{"abbreviation":"OV","name":"Overijssel","country":"NL"},
+		{"abbreviation":"UT","name":"Utrecht","country":"NL"},
+		{"abbreviation":"ZH","name":"Zuid-Holland","country":"NL"},
+		{"abbreviation":"ZL","name":"Zeeland","country":"NL"},
+		{"abbreviation":"AW","name":"Aruba","country":"NL"},
+		{"abbreviation":"BQ","name":"Bonaire","country":"NL"},
+		{"abbreviation":"BQ2","name":"Saba","country":"NL"},
+		{"abbreviation":"BQ3","name":"Sint Eustatius","country":"NL"},
+		{"abbreviation":"CW","name":"Curaçao","country":"NL"},
+		{"abbreviation":"SX","name":"Sint Maarten","country":"NL"}
+	]
+}

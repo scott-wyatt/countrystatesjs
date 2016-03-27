@@ -1,0 +1,23 @@
+{
+	"name":"Australia",
+	"altSpellings":["AU"],
+	"ISO":{"alpha2":"AU","alpha3":"AUS"},
+	"states": [
+		{"name":"Ashmore and Cartier Islands","country":"AU"},
+		{"name":"Australian Antarctic Territory","country":"AU"},
+		{"abbreviation":"ACT","name":"Australian Capital Territory","country":"AU"},
+		{"abbreviation":"CX","name":"Christmas Island","country":"AU"},
+		{"abbreviation":"CC","name":"Cocos Islands","altSpellings":["Keeling Islands"],"country":"AU"},
+		{"name":"Coral Sea Islands","country":"AU"},
+		{"abbreviation":"HM","name":"Heard Island and McDonald Islands","country":"AU"},
+		{"abbreviation":"JBT","name":"Jervis Bay Territory","country":"AU"},
+		{"abbreviation":"NSW","name":"New South Wales","country":"AU"},
+		{"abbreviation":"NF","name":"Norfolk Island","country":"AU"},
+		{"abbreviation":"NT","name":"Northern Territory","country":"AU"},
+		{"abbreviation":"QLD","name":"Queensland","country":"AU"},
+		{"abbreviation":"SA","name":"South Australia","country":"AU"},
+		{"abbreviation":"TAS","name":"Tasmania","country":"AU"},
+		{"abbreviation":"VIC","name":"Victoria","country":"AU"},
+		{"abbreviation":"WA","name":"Western Australia","country":"AU"}
+	]
+}

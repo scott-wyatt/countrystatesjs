@@ -1,0 +1,31 @@
+{
+	"name":"Argentina",
+	"altSpellings":["AR","Argentine Republic","República Argentina"],
+	"ISO":{"alpha2":"AR","alpha3":"ARG"},
+	"states": [
+		{ "name": "Ciudad Autónoma de Buenos Aires", "country": "AR" },
+		{ "name": "Buenos Aires", "country": "AR" },
+		{ "name": "Catamarca", "country": "AR" },
+		{ "name": "Chaco", "country": "AR" },
+		{ "name": "Chubut", "country": "AR" },
+		{ "name": "Córdoba", "country": "AR" },
+		{ "name": "Corrientes", "country": "AR" },
+		{ "name": "Entre Ríos", "country": "AR" },
+		{ "name": "Formosa", "country": "AR" },
+		{ "name": "Jujuy", "country": "AR" },
+		{ "name": "La Pampa", "country": "AR" },
+		{ "name": "La Rioja", "country": "AR" },
+		{ "name": "Mendoza", "country": "AR" },
+		{ "name": "Misiones", "country": "AR" },
+		{ "name": "Neuquén", "country": "AR" },
+		{ "name": "Río Negro", "country": "AR" },
+		{ "name": "Salta", "country": "AR" },
+		{ "name": "San Juan", "country": "AR" },
+		{ "name": "San Luis", "country": "AR" },
+		{ "name": "Santa Cruz", "country": "AR" },
+		{ "name": "Santa Fe", "country": "AR" },
+		{ "name": "Santiago del Estero", "country": "AR" },
+		{ "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur", "country": "AR" },
+		{ "name": "Tucumán", "country": "AR" }
+	]
+}

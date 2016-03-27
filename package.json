@@ -1,0 +1,39 @@
+{
+  "name": "countrystatesjs",
+  "version": "0.0.1",
+  "description": "A utility library for returning state/province data given a country",
+  "main": "index.js",
+  "author": "Scott Wyatt <scottwyatt86@gmail.com> (http://cali-style.com)",
+  "license": "MIT",
+  "repository": "scott-wyatt/countrystatesjs",
+  "engines": [
+    "node"
+  ],
+  "scripts": {
+    "pretest": "./node_modules/standard/bin/cmd.js",
+    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --"
+  },
+  "keywords": [
+    "country",
+    "iso",
+    "states",
+    "provinces",
+    "countries",
+    "state",
+    "province"
+  ],
+  "bugs": {
+    "url": "https://github.com/scott-wyatt/countrystatesjs/issues"
+  },
+  "homepage": "https://github.com/scott-wyatt/countrystatesjs",
+  "dependencies": {
+    "bulk-require": "^0.2.1",
+    "lodash": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "istanbul": "^0.3.7",
+    "mocha": "^2.1.0",
+    "standard": "^2.11.0"
+  }
+}
