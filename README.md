@@ -4,7 +4,7 @@
 [![NPM](https://nodei.co/npm-dl/countrystatesjs.png?months=3&height=2)](https://nodei.co/npm/countrystatesjs/)
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
-[![Dependency Status](https://david-dm.org/scott-wyatt/countrystatesjs.svg)](https://david-dm.org/therebelrobot/countryjs)
+[![Dependency Status](https://david-dm.org/scott-wyatt/countrystatesjs.svg)](https://david-dm.org/scott-wyatt/countrystatesjs)
 [![Code Climate](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/gpa.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
 [![Test Coverage](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/coverage.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
 [![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat)](http://js.org)
@@ -33,7 +33,7 @@ A Node.js module for returning data about states/provinces within countries.
 ## Install
 
 ```bash
-npm install countryjs
+npm install countrystatesjs
 ```
 
 ### Using with browserify
@@ -153,7 +153,7 @@ country.altSpellings('US') // Defaults to 'ISO2'
 Return all country data. This will be super big. Not recommended.
 
 ```JavaScript
-var country = require('countryjs');
+var country = require('countrystatesjs');
 country.all();
 // returns array of objects,
 // [{
