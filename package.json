@@ -1,6 +1,6 @@
 {
   "name": "countrystatesjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A utility library for returning state/province data given a country",
   "main": "index.js",
   "author": "Scott Wyatt <scottwyatt86@gmail.com> (http://cali-style.com)",
