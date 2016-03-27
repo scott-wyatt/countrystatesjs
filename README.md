@@ -1,12 +1,12 @@
 # country.js
 
-[![NPM](https://nodei.co/npm/statejs.png?downloads=true)](https://nodei.co/npm/statejs/)
-[![NPM](https://nodei.co/npm-dl/statejs.png?months=3&height=2)](https://nodei.co/npm/statejs/)
+[![NPM](https://nodei.co/npm/countrystatesjs.png?downloads=true)](https://nodei.co/npm/countrystatesjs/)
+[![NPM](https://nodei.co/npm-dl/countrystatesjs.png?months=3&height=2)](https://nodei.co/npm/countrystatesjs/)
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
-[![Dependency Status](https://david-dm.org/scott-wyatt/statejs.svg)](https://david-dm.org/therebelrobot/countryjs)
-[![Code Climate](https://codeclimate.com/github/scott-wyatt/statejs/badges/gpa.svg)](https://codeclimate.com/github/scott-wyatt/statejs)
-[![Test Coverage](https://codeclimate.com/github/scott-wyatt/statejs/badges/coverage.svg)](https://codeclimate.com/github/scott-wyatt/statejs)
+[![Dependency Status](https://david-dm.org/scott-wyatt/countrystatesjs.svg)](https://david-dm.org/therebelrobot/countryjs)
+[![Code Climate](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/gpa.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
+[![Test Coverage](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/coverage.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
 [![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat)](http://js.org)
 
 A Node.js module for returning data about states/provinces within countries.
@@ -69,7 +69,7 @@ To access one of the country properties available, you'll need to use one of the
 Returns name of the Country
 
 ```JavaScript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.name('US', 'ISO2'); // 'ISO2', 'ISO3', 'name'
 country.name('US'); // Defaults to ISO2
 // returns object,
@@ -91,7 +91,7 @@ country.name('US'); // Defaults to ISO2
 Returns all states/provinces for a specified country.
 
 ```JavaScript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.states('USA', 'ISO3'); // 'ISO2', 'ISO3', 'name'
 country.states('US'); // Defaults to ISO2
 // returns array of states / provinces,
@@ -110,7 +110,7 @@ Alias of [`.states()`]()
 Returns name for a specified country
 
 ```javascript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.name('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.name('US') // Defaults to 'ISO2'
 // returns string
@@ -122,7 +122,7 @@ country.name('US') // Defaults to 'ISO2'
 Returns name for a specified country
 
 ```javascript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.state('USA','Indiana'); // State Name, State Abbreviation
 // returns object
 // { abbreviation: 'IN', name: 'Indiana', country: 'US' }
@@ -141,7 +141,7 @@ Alias of [`.state()`]()
 Returns alternate spellings for the name of a specified country
 
 ```javascript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.altSpellings('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.altSpellings('US') // Defaults to 'ISO2'
 // returns array of strings, alternate names
@@ -153,7 +153,7 @@ country.altSpellings('US') // Defaults to 'ISO2'
 Returns ISO codes for a specified country
 
 ```javascript
-var country = require('statejs');
+var country = require('countrystatesjs');
 country.ISOcodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.ISOcodes('US') // Defaults to 'ISO2'
 // returns object of ISO codes
