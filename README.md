@@ -58,32 +58,27 @@ var bundle = browserify({
 
 To access one of the country properties available, you'll need to use one of the API methods listed below and pass a country in either way:
 
-- Using the ISO-alpha2 code: `country.population('US', 'ISO2')` or `country.area('JP')` (defaults)
-- Using the ISO-alpha3 code: `country.capital('GBR', 'ISO3)`
-- Using the country name: `country.wiki('france', 'name')`. The matching is case-insensitive, against the native name, alternative spellings and available transalations.
+- Using the ISO-alpha2 code: `country.name('US', 'ISO2')`
+- Using the ISO-alpha3 code: `country.name('GBR', 'ISO3)`
+- Getting a State/Province name: `country.name('US','IN')`
+- Getting a State/Province Object: `country.state('US','IN')`
 
 ## API
 
 ### `.name()`
 
-Returns name of the Country
+Returns name for a specified country
 
-```JavaScript
+```javascript
 var country = require('countrystatesjs');
-country.name('US', 'ISO2'); // 'ISO2', 'ISO3', 'name'
-country.name('US'); // Defaults to ISO2
-// returns object,
-// {
-//     "name": "United States",
-//     "altSpellings": ["US", "USA", "United States of America"],
-//     "ISO": {
-//         "alpha2": "US",
-//         "alpha3": "USA"
-//     },
-//     "states": [
-//         {"abbreviation":"AL","name":"Alabama","country":"US"}
-//     ]
-// }
+country.name('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
+country.name('US') // Defaults to 'ISO2'
+// returns string
+// "United States"
+
+country.name('US','IN') // Looks up country and state/province by ISO, Name, and Alternative Spellings
+// returns string
+// "Indiana"
 ```
 
 ### `.states()`
@@ -105,17 +100,6 @@ country.states('US'); // Defaults to ISO2
 
 Alias of [`.states()`]()
 
-### `.name()`
-
-Returns name for a specified country
-
-```javascript
-var country = require('countrystatesjs');
-country.name('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.name('US') // Defaults to 'ISO2'
-// returns string
-// "United States"
-```
 
 ### `.state()`
 
@@ -127,9 +111,6 @@ country.state('USA','Indiana'); // State Name, State Abbreviation
 // returns object
 // { abbreviation: 'IN', name: 'Indiana', country: 'US' }
 
-country.name('US','IN')
-// returns string
-// "Indiana"
 ```
 
 ### `.province()`
