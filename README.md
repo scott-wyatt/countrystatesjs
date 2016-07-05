@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/countrystatesjs.png?downloads=true)](https://nodei.co/npm/countrystatesjs/)
 [![NPM](https://nodei.co/npm-dl/countrystatesjs.png?months=3&height=2)](https://nodei.co/npm/countrystatesjs/)
-[![Build status][ci-image]](https://travis-ci.org/scott-wyatt/countrystatesjs)
+[![Build status][ci-image]][ci-url]
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 [![Dependency Status](https://david-dm.org/scott-wyatt/countrystatesjs.svg)](https://david-dm.org/scott-wyatt/countrystatesjs)
 [![Code Climate](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/gpa.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
@@ -244,3 +244,6 @@ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR 
 INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
+
+[ci-image]: https://img.shields.io/travis/scott-wyatt/countrystatesjs/master.svg?style=flat-square
+[ci-url]: https://travis-ci.org/scott-wyatt/countrystatesjs
