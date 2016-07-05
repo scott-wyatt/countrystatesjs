@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/countrystatesjs.png?downloads=true)](https://nodei.co/npm/countrystatesjs/)
 [![NPM](https://nodei.co/npm-dl/countrystatesjs.png?months=3&height=2)](https://nodei.co/npm/countrystatesjs/)
-
+[![Build status][ci-image]](https://travis-ci.org/scott-wyatt/countrystatesjs)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 [![Dependency Status](https://david-dm.org/scott-wyatt/countrystatesjs.svg)](https://david-dm.org/scott-wyatt/countrystatesjs)
 [![Code Climate](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/gpa.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
