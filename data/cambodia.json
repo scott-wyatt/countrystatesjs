@@ -1,32 +1,138 @@
 {
-	"name":"Cambodia",
-	"altSpellings":["KH","Kingdom of Cambodia"],
-	"ISO":{"alpha2":"KH","alpha3":"KHM"},
-	"states": [
-		{ "name": "ភ្នំពេញ", "english": "Phnom Penh Municipality", "country": "KH" },
-		{ "name": "បន្ទាយមានជ័យ", "english": "Banteay Meanchey", "country": "KH" },
-		{ "name": "បាត់ដំបង", "english": "Battambang", "country": "KH" },
-		{ "name": "កំពង់ចាម", "english": "Kampong Cham", "country": "KH" },
-		{ "name": "កំពង់ឆ្នាំង", "english": "Kampong Chhnang", "country": "KH" },
-		{ "name": "កំពង់ស្ពឺ", "english": "Kampong Speu", "country": "KH" },
-		{ "name": "កំពង់ធំ", "english": "Kampong Thom", "country": "KH" },
-		{ "name": "កំពត", "english": "Kampot", "country": "KH" },
-		{ "name": "កណ្តាល", "english": "Kandal", "country": "KH" },
-		{ "name": "កោះកុង", "english": "Koh Kong", "country": "KH" },
-		{ "name": "កែប", "english": "Kep", "country": "KH" },
-		{ "name": "ក្រចេះ", "english": "Kratié", "country": "KH" },
-		{ "name": "មណ្ឌលគីរី", "english": "Mondulkiri", "country": "KH" },
-		{ "name": "ឧត្តរមានជ័យ", "english": "Oddar Meanchey", "country": "KH" },
-		{ "name": "បៃលិន", "english": "Pailin", "country": "KH" },
-		{ "name": "ព្រះសីហនុ", "english": "Preah Sihanouk", "country": "KH" },
-		{ "name": "ព្រះវិហារ", "english": "Preah Vihear", "country": "KH" },
-		{ "name": "ពោធិ៍សាត់", "english": "Pursat", "country": "KH" },
-		{ "name": "ព្រៃវែង", "english": "Prey Veng", "country": "KH" },
-		{ "name": "រតនគីរី", "english": "Ratanakiri", "country": "KH" },
-		{ "name": "សៀមរាប", "english": "Siem Reap", "country": "KH" },
-		{ "name": "ស្ទឹងត្រែង", "english": "Stung Treng", "country": "KH" },
-		{ "name": "ស្វាយរៀង", "english": "Svay Rieng", "country": "KH" },
-		{ "name": "តាកែវ", "english": "Takéo", "country": "KH" },
-		{ "name": "ត្បូងឃ្មុំ", "english": "Tbong Khmum", "country": "KH" }
-	]
+  "name": "Cambodia",
+  "altSpellings": [
+    "KH",
+    "Kingdom of Cambodia"
+  ],
+  "ISO": {
+    "alpha2": "KH",
+    "alpha3": "KHM"
+  },
+  "states": [
+    {
+      "name": "ភ្នំពេញ",
+      "english": "Phnom Penh Municipality",
+      "country": "KH"
+    },
+    {
+      "name": "បន្ទាយមានជ័យ",
+      "english": "Banteay Meanchey",
+      "country": "KH"
+    },
+    {
+      "name": "បាត់ដំបង",
+      "english": "Battambang",
+      "country": "KH"
+    },
+    {
+      "name": "កំពង់ចាម",
+      "english": "Kampong Cham",
+      "country": "KH"
+    },
+    {
+      "name": "កំពង់ឆ្នាំង",
+      "english": "Kampong Chhnang",
+      "country": "KH"
+    },
+    {
+      "name": "កំពង់ស្ពឺ",
+      "english": "Kampong Speu",
+      "country": "KH"
+    },
+    {
+      "name": "កំពង់ធំ",
+      "english": "Kampong Thom",
+      "country": "KH"
+    },
+    {
+      "name": "កំពត",
+      "english": "Kampot",
+      "country": "KH"
+    },
+    {
+      "name": "កណ្តាល",
+      "english": "Kandal",
+      "country": "KH"
+    },
+    {
+      "name": "កោះកុង",
+      "english": "Koh Kong",
+      "country": "KH"
+    },
+    {
+      "name": "កែប",
+      "english": "Kep",
+      "country": "KH"
+    },
+    {
+      "name": "ក្រចេះ",
+      "english": "Kratié",
+      "country": "KH"
+    },
+    {
+      "name": "មណ្ឌលគីរី",
+      "english": "Mondulkiri",
+      "country": "KH"
+    },
+    {
+      "name": "ឧត្តរមានជ័យ",
+      "english": "Oddar Meanchey",
+      "country": "KH"
+    },
+    {
+      "name": "បៃលិន",
+      "english": "Pailin",
+      "country": "KH"
+    },
+    {
+      "name": "ព្រះសីហនុ",
+      "english": "Preah Sihanouk",
+      "country": "KH"
+    },
+    {
+      "name": "ព្រះវិហារ",
+      "english": "Preah Vihear",
+      "country": "KH"
+    },
+    {
+      "name": "ពោធិ៍សាត់",
+      "english": "Pursat",
+      "country": "KH"
+    },
+    {
+      "name": "ព្រៃវែង",
+      "english": "Prey Veng",
+      "country": "KH"
+    },
+    {
+      "name": "រតនគីរី",
+      "english": "Ratanakiri",
+      "country": "KH"
+    },
+    {
+      "name": "សៀមរាប",
+      "english": "Siem Reap",
+      "country": "KH"
+    },
+    {
+      "name": "ស្ទឹងត្រែង",
+      "english": "Stung Treng",
+      "country": "KH"
+    },
+    {
+      "name": "ស្វាយរៀង",
+      "english": "Svay Rieng",
+      "country": "KH"
+    },
+    {
+      "name": "តាកែវ",
+      "english": "Takéo",
+      "country": "KH"
+    },
+    {
+      "name": "ត្បូងឃ្មុំ",
+      "english": "Tbong Khmum",
+      "country": "KH"
+    }
+  ]
 }

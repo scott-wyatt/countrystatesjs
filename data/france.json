@@ -1,0 +1,169 @@
+{
+  "name": "France",
+  "altSpellings": [
+    "FR",
+    "Francia",
+    "Frankreich",
+    "Frankrijk"
+  ],
+  "ISO": {
+    "alpha2": "FR",
+    "alpha3": "FRA"
+  },
+  "states": [
+    {
+      "name": "Alsace",
+      "abbreviation": "FR-A",
+      "subdivision": "Metropolitan region",
+      "native": "Alsace",
+      "country": "FR"
+    },
+    {
+      "name": "Aquitaine",
+      "abbreviation": "FR-B",
+      "subdivision": "Metropolitan region",
+      "native": "Aquitaine",
+      "country": "FR"
+    },
+    {
+      "name": "Auvergne",
+      "abbreviation": "FR-C",
+      "subdivision": "Metropolitan region",
+      "native": "Auvergne",
+      "country": "FR"
+    },
+    {
+      "name": "Brittany",
+      "abbreviation": "FR-E",
+      "subdivision": "Metropolitan region",
+      "native": "Bretagne",
+      "country": "FR"
+    },
+    {
+      "name": "Burgundy",
+      "abbreviation": "FR-D",
+      "subdivision": "Metropolitan region",
+      "native": "Bourgogne",
+      "country": "FR"
+    },
+    {
+      "name": "Centre-Val de Loire",
+      "abbreviation": "FR-F",
+      "subdivision": "Metropolitan region",
+      "native": "Centre",
+      "country": "FR"
+    },
+    {
+      "name": "Champagne-Ardenne",
+      "abbreviation": "FR-G",
+      "subdivision": "Metropolitan region",
+      "native": "Champagne-Ardenne",
+      "country": "FR"
+    },
+    {
+      "name": "Corsica",
+      "abbreviation": "FR-H",
+      "subdivision": "Metropolitan region",
+      "native": "Corse",
+      "country": "FR"
+    },
+    {
+      "name": "Franche-Comté",
+      "abbreviation": "FR-I",
+      "subdivision": "Metropolitan region",
+      "native": "Franche-Comté",
+      "country": "FR"
+    },
+    {
+      "name": "Languedoc-Roussillon",
+      "abbreviation": "FR-K",
+      "subdivision": "Metropolitan region",
+      "native": "Languedoc-Roussillon",
+      "country": "FR"
+    },
+    {
+      "name": "Limousin",
+      "abbreviation": "FR-L",
+      "subdivision": "Metropolitan region",
+      "native": "Limousin",
+      "country": "FR"
+    },
+    {
+      "name": "Lorraine",
+      "abbreviation": "FR-M",
+      "subdivision": "Metropolitan region",
+      "native": "Lorraine",
+      "country": "FR"
+    },
+    {
+      "name": "Lower Normandy",
+      "abbreviation": "FR-P",
+      "subdivision": "Metropolitan region",
+      "native": "Basse-Normandie",
+      "country": "FR"
+    },
+    {
+      "name": "Midi-Pyrénées",
+      "abbreviation": "FR-N",
+      "subdivision": "Metropolitan region",
+      "native": "Midi-Pyrénées",
+      "country": "FR"
+    },
+    {
+      "name": "Nord-Pas-de-Calais",
+      "abbreviation": "FR-O",
+      "subdivision": "Metropolitan region",
+      "native": "Nord-Pas-de-Calais",
+      "country": "FR"
+    },
+    {
+      "name": "Pays de la Loire",
+      "abbreviation": "FR-R",
+      "subdivision": "Metropolitan region",
+      "native": "Pays de la Loire",
+      "country": "FR"
+    },
+    {
+      "name": "Picardy",
+      "abbreviation": "FR-S",
+      "subdivision": "Metropolitan region",
+      "native": "Picardie",
+      "country": "FR"
+    },
+    {
+      "name": "Poitou-Charentes",
+      "abbreviation": "FR-T",
+      "subdivision": "Metropolitan region",
+      "native": "Poitou-Charentes",
+      "country": "FR"
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "abbreviation": "FR-U",
+      "subdivision": "Metropolitan region",
+      "native": "Provence-Alpes-Côte d'Azur",
+      "country": "FR"
+    },
+    {
+      "name": "Rhône-Alpes",
+      "abbreviation": "FR-V",
+      "subdivision": "Metropolitan region",
+      "native": "Rhône-Alpes",
+      "country": "FR"
+    },
+    {
+      "name": "Upper Normandy",
+      "abbreviation": "FR-Q",
+      "subdivision": "Metropolitan region",
+      "native": "Haute-Normandie",
+      "country": "FR"
+    },
+    {
+      "name": "Île-de-France",
+      "abbreviation": "FR-J",
+      "subdivision": "Metropolitan region",
+      "native": "Île-de-France",
+      "country": "FR"
+    }
+  ]
+}

@@ -1,38 +1,139 @@
 {
-	"name":"Pakistan",
-	"altSpellings":["PK","Pākistān","Islamic Republic of Pakistan","Islāmī Jumhūriya'eh Pākistān"],
-	"ISO":{"alpha2":"PK","alpha3":"PAK"},
-	"states": [
-		{ "name": "Azad Kashmir", "country": "PK" },
-		{ "name": "Bahawalpur", "country": "PK" },
-		{ "name": "Bannu", "country": "PK" },
-		{ "name": "Dera Ghazi Khan", "country": "PK" },
-		{ "name": "Dera Ismail Khan", "country": "PK" },
-		{ "name": "Faisalabad", "country": "PK" },
-		{ "name": "F.A.T.A.", "country": "PK" },
-		{ "name": "Gujranwala", "country": "PK" },
-		{ "name": "Hazara", "country": "PK" },
-		{ "name": "Hyderabad", "country": "PK" },
-		{ "name": "Islamabad", "country": "PK" },
-		{ "name": "Kalat", "country": "PK" },
-		{ "name": "Karachi", "country": "PK" },
-		{ "name": "Kohat", "country": "PK" },
-		{ "name": "Lahore", "country": "PK" },
-		{ "name": "Larkana", "country": "PK" },
-		{ "name": "Makran", "country": "PK" },
-		{ "name": "Malakand", "country": "PK" },
-		{ "name": "Mardan", "country": "PK" },
-		{ "name": "Mirpur Khas", "country": "PK" },
-		{ "name": "Multan", "country": "PK" },
-		{ "name": "Nasirabad", "country": "PK" },
-		{ "name": "Northern Areas", "country": "PK" },
-		{ "name": "Peshawar", "country": "PK" },
-		{ "name": "Quetta", "country": "PK" },
-		{ "name": "Rawalpindi", "country": "PK" },
-		{ "name": "Sargodha", "country": "PK" },
-		{ "name": "Sahiwal", "country": "PK" },
-		{ "name": "Sibi", "country": "PK" },
-		{ "name": "Sukkur", "country": "PK" },
-		{ "name": "Zhob", "country": "PK" }
-	]
+  "name": "Pakistan",
+  "altSpellings": [
+    "PK",
+    "Pākistān",
+    "Islamic Republic of Pakistan",
+    "Islāmī Jumhūriya'eh Pākistān"
+  ],
+  "ISO": {
+    "alpha2": "PK",
+    "alpha3": "PAK"
+  },
+  "states": [
+    {
+      "name": "Azad Kashmir",
+      "country": "PK"
+    },
+    {
+      "name": "Bahawalpur",
+      "country": "PK"
+    },
+    {
+      "name": "Bannu",
+      "country": "PK"
+    },
+    {
+      "name": "Dera Ghazi Khan",
+      "country": "PK"
+    },
+    {
+      "name": "Dera Ismail Khan",
+      "country": "PK"
+    },
+    {
+      "name": "Faisalabad",
+      "country": "PK"
+    },
+    {
+      "name": "F.A.T.A.",
+      "country": "PK"
+    },
+    {
+      "name": "Gujranwala",
+      "country": "PK"
+    },
+    {
+      "name": "Hazara",
+      "country": "PK"
+    },
+    {
+      "name": "Hyderabad",
+      "country": "PK"
+    },
+    {
+      "name": "Islamabad",
+      "country": "PK"
+    },
+    {
+      "name": "Kalat",
+      "country": "PK"
+    },
+    {
+      "name": "Karachi",
+      "country": "PK"
+    },
+    {
+      "name": "Kohat",
+      "country": "PK"
+    },
+    {
+      "name": "Lahore",
+      "country": "PK"
+    },
+    {
+      "name": "Larkana",
+      "country": "PK"
+    },
+    {
+      "name": "Makran",
+      "country": "PK"
+    },
+    {
+      "name": "Malakand",
+      "country": "PK"
+    },
+    {
+      "name": "Mardan",
+      "country": "PK"
+    },
+    {
+      "name": "Mirpur Khas",
+      "country": "PK"
+    },
+    {
+      "name": "Multan",
+      "country": "PK"
+    },
+    {
+      "name": "Nasirabad",
+      "country": "PK"
+    },
+    {
+      "name": "Northern Areas",
+      "country": "PK"
+    },
+    {
+      "name": "Peshawar",
+      "country": "PK"
+    },
+    {
+      "name": "Quetta",
+      "country": "PK"
+    },
+    {
+      "name": "Rawalpindi",
+      "country": "PK"
+    },
+    {
+      "name": "Sargodha",
+      "country": "PK"
+    },
+    {
+      "name": "Sahiwal",
+      "country": "PK"
+    },
+    {
+      "name": "Sibi",
+      "country": "PK"
+    },
+    {
+      "name": "Sukkur",
+      "country": "PK"
+    },
+    {
+      "name": "Zhob",
+      "country": "PK"
+    }
+  ]
 }

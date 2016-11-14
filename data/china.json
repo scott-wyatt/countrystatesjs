@@ -1,41 +1,188 @@
 {
-	"name":"China",
-	"altSpellings":["CN","Zhōngguó","Zhongguo","Zhonghua","People's Republic of China","中华人民共和国","Zhōnghuá Rénmín Gònghéguó"],
-	"ISO":{"alpha2":"CN","alpha3":"CHN"},
-	"states": [
-		{ "name": "重庆", "abbreviation": "渝", "country": "CN" },
-		{ "name": "黑龙江", "abbreviation": "黑", "country": "CN" },
-		{ "name": "吉林", "abbreviation": "吉", "country": "CN" },
-		{ "name": "海南", "abbreviation": "琼", "country": "CN" },
-		{ "name": "北京", "abbreviation": "京", "country": "CN" },
-		{ "name": "辽宁", "abbreviation": "辽", "country": "CN" },
-		{ "name": "内蒙古", "abbreviation": "蒙", "country": "CN" },
-		{ "name": "西藏", "abbreviation": "藏", "country": "CN" },
-		{ "name": "青海", "abbreviation": "青", "country": "CN" },
-		{ "name": "宁夏", "abbreviation": "宁", "country": "CN" },
-		{ "name": "新疆", "abbreviation": "新", "country": "CN" },
-		{ "name": "甘肃", "abbreviation": "甘", "country": "CN" },
-		{ "name": "河北", "abbreviation": "冀", "country": "CN" },
-		{ "name": "河南", "abbreviation": "豫", "country": "CN" },
-		{ "name": "湖北", "abbreviation": "鄂", "country": "CN" },
-		{ "name": "湖南", "abbreviation": "湘", "country": "CN" },
-		{ "name": "山东", "abbreviation": "鲁", "country": "CN" },
-		{ "name": "江苏", "abbreviation": "苏", "country": "CN" },
-		{ "name": "安徽", "abbreviation": "皖", "country": "CN" },
-		{ "name": "山西", "abbreviation": "晋", "country": "CN" },
-		{ "name": "陕西", "abbreviation": "陕", "country": "CN" },
-		{ "name": "四川", "abbreviation": "川", "country": "CN" },
-		{ "name": "云南", "abbreviation": "滇", "country": "CN" },
-		{ "name": "贵州", "abbreviation": "黔", "country": "CN" },
-		{ "name": "浙江", "abbreviation": "浙", "country": "CN" },
-		{ "name": "福建", "abbreviation": "闽", "country": "CN" },
-		{ "name": "广西", "abbreviation": "桂", "country": "CN" },
-		{ "name": "上海", "abbreviation": "沪", "country": "CN" },
-		{ "name": "天津", "abbreviation": "津", "country": "CN" },
-		{ "name": "香港", "abbreviation": "港", "country": "CN" },
-		{ "name": "澳门", "abbreviation": "澳", "country": "CN" },
-		{ "name": "台湾", "abbreviation": "台", "country": "CN" },
-		{ "name": "江西", "abbreviation": "赣", "country": "CN" },
-		{ "name": "广东", "abbreviation": "粤", "country": "CN" }
-	]
+  "name": "China",
+  "altSpellings": [
+    "CN",
+    "Zhōngguó",
+    "Zhongguo",
+    "Zhonghua",
+    "People's Republic of China",
+    "中华人民共和国",
+    "Zhōnghuá Rénmín Gònghéguó"
+  ],
+  "ISO": {
+    "alpha2": "CN",
+    "alpha3": "CHN"
+  },
+  "states": [
+    {
+      "name": "重庆",
+      "abbreviation": "渝",
+      "country": "CN"
+    },
+    {
+      "name": "黑龙江",
+      "abbreviation": "黑",
+      "country": "CN"
+    },
+    {
+      "name": "吉林",
+      "abbreviation": "吉",
+      "country": "CN"
+    },
+    {
+      "name": "海南",
+      "abbreviation": "琼",
+      "country": "CN"
+    },
+    {
+      "name": "北京",
+      "abbreviation": "京",
+      "country": "CN"
+    },
+    {
+      "name": "辽宁",
+      "abbreviation": "辽",
+      "country": "CN"
+    },
+    {
+      "name": "内蒙古",
+      "abbreviation": "蒙",
+      "country": "CN"
+    },
+    {
+      "name": "西藏",
+      "abbreviation": "藏",
+      "country": "CN"
+    },
+    {
+      "name": "青海",
+      "abbreviation": "青",
+      "country": "CN"
+    },
+    {
+      "name": "宁夏",
+      "abbreviation": "宁",
+      "country": "CN"
+    },
+    {
+      "name": "新疆",
+      "abbreviation": "新",
+      "country": "CN"
+    },
+    {
+      "name": "甘肃",
+      "abbreviation": "甘",
+      "country": "CN"
+    },
+    {
+      "name": "河北",
+      "abbreviation": "冀",
+      "country": "CN"
+    },
+    {
+      "name": "河南",
+      "abbreviation": "豫",
+      "country": "CN"
+    },
+    {
+      "name": "湖北",
+      "abbreviation": "鄂",
+      "country": "CN"
+    },
+    {
+      "name": "湖南",
+      "abbreviation": "湘",
+      "country": "CN"
+    },
+    {
+      "name": "山东",
+      "abbreviation": "鲁",
+      "country": "CN"
+    },
+    {
+      "name": "江苏",
+      "abbreviation": "苏",
+      "country": "CN"
+    },
+    {
+      "name": "安徽",
+      "abbreviation": "皖",
+      "country": "CN"
+    },
+    {
+      "name": "山西",
+      "abbreviation": "晋",
+      "country": "CN"
+    },
+    {
+      "name": "陕西",
+      "abbreviation": "陕",
+      "country": "CN"
+    },
+    {
+      "name": "四川",
+      "abbreviation": "川",
+      "country": "CN"
+    },
+    {
+      "name": "云南",
+      "abbreviation": "滇",
+      "country": "CN"
+    },
+    {
+      "name": "贵州",
+      "abbreviation": "黔",
+      "country": "CN"
+    },
+    {
+      "name": "浙江",
+      "abbreviation": "浙",
+      "country": "CN"
+    },
+    {
+      "name": "福建",
+      "abbreviation": "闽",
+      "country": "CN"
+    },
+    {
+      "name": "广西",
+      "abbreviation": "桂",
+      "country": "CN"
+    },
+    {
+      "name": "上海",
+      "abbreviation": "沪",
+      "country": "CN"
+    },
+    {
+      "name": "天津",
+      "abbreviation": "津",
+      "country": "CN"
+    },
+    {
+      "name": "香港",
+      "abbreviation": "港",
+      "country": "CN"
+    },
+    {
+      "name": "澳门",
+      "abbreviation": "澳",
+      "country": "CN"
+    },
+    {
+      "name": "台湾",
+      "abbreviation": "台",
+      "country": "CN"
+    },
+    {
+      "name": "江西",
+      "abbreviation": "赣",
+      "country": "CN"
+    },
+    {
+      "name": "广东",
+      "abbreviation": "粤",
+      "country": "CN"
+    }
+  ]
 }

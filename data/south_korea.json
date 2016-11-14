@@ -1,0 +1,82 @@
+{
+  "name": "South Korea",
+  "altSpellings": [
+    "KR",
+    "Republic of Korea",
+    "Südkorea",
+    "Corea del Sur",
+    "Corée du Sud",
+    "大韓民国",
+    "Corea del Sud"
+  ],
+  "ISO": {
+    "alpha2": "KR",
+    "alpha3": "KOR"
+  },
+  "states": [
+    {
+      "name": "Ch'ungch'ong-bukto",
+      "country": "KR"
+    },
+    {
+      "name": "Ch'ungch'ong-namdo",
+      "country": "KR"
+    },
+    {
+      "name": "Cheju-do",
+      "country": "KR"
+    },
+    {
+      "name": "Cholla-bukto",
+      "country": "KR"
+    },
+    {
+      "name": "Cholla-namdo",
+      "country": "KR"
+    },
+    {
+      "name": "Inch'on-gwangyoksi",
+      "country": "KR"
+    },
+    {
+      "name": "Kangwon-do",
+      "country": "KR"
+    },
+    {
+      "name": "Kwangju-gwangyoksi",
+      "country": "KR"
+    },
+    {
+      "name": "Kyonggi-do",
+      "country": "KR"
+    },
+    {
+      "name": "Kyongsang-bukto",
+      "country": "KR"
+    },
+    {
+      "name": "Kyongsang-namdo",
+      "country": "KR"
+    },
+    {
+      "name": "Pusan-gwangyoksi",
+      "country": "KR"
+    },
+    {
+      "name": "Soul-t'ukpyolsi",
+      "country": "KR"
+    },
+    {
+      "name": "Taegu-gwangyoksi",
+      "country": "KR"
+    },
+    {
+      "name": "Taejon-gwangyoksi",
+      "country": "KR"
+    },
+    {
+      "name": "Ulsan-gwangyoksi",
+      "country": "KR"
+    }
+  ]
+}

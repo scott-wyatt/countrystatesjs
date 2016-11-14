@@ -1,19 +1,62 @@
 {
-	"name":"Jordan",
-	"altSpellings":["JO","Hashemite Kingdom of Jordan","al-Mamlakah al-Urdunīyah al-Hāshimīyah"],
-	"ISO":{"alpha2":"JO","alpha3":"JOR"},
-	"states": [
-		{ "name": "Irbid", "country": "JO" },
-		{ "name": "Ajloun", "country": "JO" },
-		{ "name": "Jerash", "country": "JO" },
-		{ "name": "Mafraq", "country": "JO" },
-		{ "name": "Balqa", "country": "JO" },
-		{ "name": "Amman", "country": "JO" },
-		{ "name": "Zarqa", "country": "JO" },
-		{ "name": "Madaba", "country": "JO" },
-		{ "name": "Karak", "country": "JO" },
-		{ "name": "Tafilah", "country": "JO" },
-		{ "name": "Ma'an", "country": "JO" },
-		{ "name": "Aqaba", "country": "JO" }
-	]
+  "name": "Jordan",
+  "altSpellings": [
+    "JO",
+    "Hashemite Kingdom of Jordan",
+    "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+  ],
+  "ISO": {
+    "alpha2": "JO",
+    "alpha3": "JOR"
+  },
+  "states": [
+    {
+      "name": "Irbid",
+      "country": "JO"
+    },
+    {
+      "name": "Ajloun",
+      "country": "JO"
+    },
+    {
+      "name": "Jerash",
+      "country": "JO"
+    },
+    {
+      "name": "Mafraq",
+      "country": "JO"
+    },
+    {
+      "name": "Balqa",
+      "country": "JO"
+    },
+    {
+      "name": "Amman",
+      "country": "JO"
+    },
+    {
+      "name": "Zarqa",
+      "country": "JO"
+    },
+    {
+      "name": "Madaba",
+      "country": "JO"
+    },
+    {
+      "name": "Karak",
+      "country": "JO"
+    },
+    {
+      "name": "Tafilah",
+      "country": "JO"
+    },
+    {
+      "name": "Ma'an",
+      "country": "JO"
+    },
+    {
+      "name": "Aqaba",
+      "country": "JO"
+    }
+  ]
 }

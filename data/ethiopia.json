@@ -1,18 +1,59 @@
 {
-	"name":"Ethiopia",
-	"altSpellings":["ET","ʾĪtyōṗṗyā","Federal Democratic Republic of Ethiopia","የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"],
-	"ISO":{"alpha2":"ET","alpha3":"ETH"},
-	"states": [
-		{ "name": "Addis Ababa", "country": "ET" },
-		{ "name": "Afar Region", "country": "ET" },
-		{ "name": "Amhara Region", "country": "ET" },
-		{ "name": "Benishangul-Gumuz", "country": "ET" },
-		{ "name": "Dire Dawa", "country": "ET" },
-		{ "name": "Gambela", "country": "ET" },
-		{ "name": "Harari", "country": "ET" },
-		{ "name": "Oromia", "country": "ET" },
-		{ "name": "Somali", "country": "ET" },
-		{ "name": "Southern Nations, Nationalities, and Peoples' Region", "country": "ET" },
-		{ "name": "Tigray Region", "country": "ET" }
-	]
+  "name": "Ethiopia",
+  "altSpellings": [
+    "ET",
+    "ʾĪtyōṗṗyā",
+    "Federal Democratic Republic of Ethiopia",
+    "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+  ],
+  "ISO": {
+    "alpha2": "ET",
+    "alpha3": "ETH"
+  },
+  "states": [
+    {
+      "name": "Addis Ababa",
+      "country": "ET"
+    },
+    {
+      "name": "Afar Region",
+      "country": "ET"
+    },
+    {
+      "name": "Amhara Region",
+      "country": "ET"
+    },
+    {
+      "name": "Benishangul-Gumuz",
+      "country": "ET"
+    },
+    {
+      "name": "Dire Dawa",
+      "country": "ET"
+    },
+    {
+      "name": "Gambela",
+      "country": "ET"
+    },
+    {
+      "name": "Harari",
+      "country": "ET"
+    },
+    {
+      "name": "Oromia",
+      "country": "ET"
+    },
+    {
+      "name": "Somali",
+      "country": "ET"
+    },
+    {
+      "name": "Southern Nations, Nationalities, and Peoples' Region",
+      "country": "ET"
+    },
+    {
+      "name": "Tigray Region",
+      "country": "ET"
+    }
+  ]
 }

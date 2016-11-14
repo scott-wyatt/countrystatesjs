@@ -1,89 +1,342 @@
 {
-	"name":"Philippines",
-	"altSpellings":["PH","Republic of the Philippines","Repúblika ng Pilipinas"],
-	"ISO":{"alpha2":"PH","alpha3":"PHL"},
-	"states": [
-		{ "name": "Abra", "country": "PH" },
-		{ "name": "Agusan del Norte", "country": "PH" },
-		{ "name": "Agusan del Sur", "country": "PH" },
-		{ "name": "Aklan", "country": "PH" },
-		{ "name": "Albay", "country": "PH" },
-		{ "name": "Antique", "country": "PH" },
-		{ "name": "Apayao", "country": "PH" },
-		{ "name": "Aurora", "country": "PH" },
-		{ "name": "Basilan", "country": "PH" },
-		{ "name": "Bataan", "country": "PH" },
-		{ "name": "Batanes", "country": "PH" },
-		{ "name": "Batangas", "country": "PH" },
-		{ "name": "Benguet", "country": "PH" },
-		{ "name": "Biliran", "country": "PH" },
-		{ "name": "Bohol", "country": "PH" },
-		{ "name": "Bukidnon", "country": "PH" },
-		{ "name": "Bulacan", "country": "PH" },
-		{ "name": "Cagayan", "country": "PH" },
-		{ "name": "Camarines Norte", "country": "PH" },
-		{ "name": "Camarines Sur", "country": "PH" },
-		{ "name": "Camiguin", "country": "PH" },
-		{ "name": "Capiz", "country": "PH" },
-		{ "name": "Catanduanes", "country": "PH" },
-		{ "name": "Cavite", "country": "PH" },
-		{ "name": "Cebu", "country": "PH" },
-		{ "name": "Compostela Valley", "country": "PH" },
-		{ "name": "Cotabato", "country": "PH" },
-		{ "name": "Davao del Norte", "country": "PH" },
-		{ "name": "Davao del Sur", "country": "PH" },
-		{ "name": "Davao Occidental", "country": "PH" },
-		{ "name": "Davao Oriental", "country": "PH" },
-		{ "name": "Dinagat Islands", "country": "PH" },
-		{ "name": "Eastern Samar", "country": "PH" },
-		{ "name": "Guimaras", "country": "PH" },
-		{ "name": "Ifugao", "country": "PH" },
-		{ "name": "Ilocos Norte", "country": "PH" },
-		{ "name": "Ilocos Sur", "country": "PH" },
-		{ "name": "Iloilo", "country": "PH" },
-		{ "name": "Isabela", "country": "PH" },
-		{ "name": "Kalinga", "country": "PH" },
-		{ "name": "La Union", "country": "PH" },
-		{ "name": "Laguna", "country": "PH" },
-		{ "name": "Lanao del Norte", "country": "PH" },
-		{ "name": "Lanao del Sur", "country": "PH" },
-		{ "name": "Leyte", "country": "PH" },
-		{ "name": "Maguindanao", "country": "PH" },
-		{ "name": "Marinduque", "country": "PH" },
-		{ "name": "Masbate", "country": "PH" },
-		{ "name": "Misamis Occidental", "country": "PH" },
-		{ "name": "Misamis Oriental", "country": "PH" },
-		{ "name": "Mountain Province", "country": "PH" },
-		{ "name": "Negros Occidental", "country": "PH" },
-		{ "name": "Negros Oriental", "country": "PH" },
-		{ "name": "Northern Samar", "country": "PH" },
-		{ "name": "Nueva Ecija", "country": "PH" },
-		{ "name": "Nueva Vizcaya", "country": "PH" },
-		{ "name": "Occidental Mindoro", "country": "PH" },
-		{ "name": "Oriental Mindoro", "country": "PH" },
-		{ "name": "Palawan", "country": "PH" },
-		{ "name": "Pampanga", "country": "PH" },
-		{ "name": "Pangasinan", "country": "PH" },
-		{ "name": "Quezon", "country": "PH" },
-		{ "name": "Quirino", "country": "PH" },
-		{ "name": "Rizal", "country": "PH" },
-		{ "name": "Romblon", "country": "PH" },
-		{ "name": "Samar", "country": "PH" },
-		{ "name": "Sarangani", "country": "PH" },
-		{ "name": "Siquijor", "country": "PH" },
-		{ "name": "Sorsogon", "country": "PH" },
-		{ "name": "South Cotabato", "country": "PH" },
-		{ "name": "Southern Leyte", "country": "PH" },
-		{ "name": "Sultan Kudarat", "country": "PH" },
-		{ "name": "Sulu", "country": "PH" },
-		{ "name": "Surigao del Norte", "country": "PH" },
-		{ "name": "Surigao del Sur", "country": "PH" },
-		{ "name": "Tarlac", "country": "PH" },
-		{ "name": "Tawi-Tawi", "country": "PH" },
-		{ "name": "Zambales", "country": "PH" },
-		{ "name": "Zamboanga del Norte", "country": "PH" },
-		{ "name": "Zamboanga del Sur", "country": "PH" },
-		{ "name": "Zamboanga Sibugay", "country": "PH" },
-		{ "name": "Metro Manila", "country": "PH" }
-	]
+  "name": "Philippines",
+  "altSpellings": [
+    "PH",
+    "Republic of the Philippines",
+    "Repúblika ng Pilipinas"
+  ],
+  "ISO": {
+    "alpha2": "PH",
+    "alpha3": "PHL"
+  },
+  "states": [
+    {
+      "name": "Abra",
+      "country": "PH"
+    },
+    {
+      "name": "Agusan del Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Agusan del Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Aklan",
+      "country": "PH"
+    },
+    {
+      "name": "Albay",
+      "country": "PH"
+    },
+    {
+      "name": "Antique",
+      "country": "PH"
+    },
+    {
+      "name": "Apayao",
+      "country": "PH"
+    },
+    {
+      "name": "Aurora",
+      "country": "PH"
+    },
+    {
+      "name": "Basilan",
+      "country": "PH"
+    },
+    {
+      "name": "Bataan",
+      "country": "PH"
+    },
+    {
+      "name": "Batanes",
+      "country": "PH"
+    },
+    {
+      "name": "Batangas",
+      "country": "PH"
+    },
+    {
+      "name": "Benguet",
+      "country": "PH"
+    },
+    {
+      "name": "Biliran",
+      "country": "PH"
+    },
+    {
+      "name": "Bohol",
+      "country": "PH"
+    },
+    {
+      "name": "Bukidnon",
+      "country": "PH"
+    },
+    {
+      "name": "Bulacan",
+      "country": "PH"
+    },
+    {
+      "name": "Cagayan",
+      "country": "PH"
+    },
+    {
+      "name": "Camarines Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Camarines Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Camiguin",
+      "country": "PH"
+    },
+    {
+      "name": "Capiz",
+      "country": "PH"
+    },
+    {
+      "name": "Catanduanes",
+      "country": "PH"
+    },
+    {
+      "name": "Cavite",
+      "country": "PH"
+    },
+    {
+      "name": "Cebu",
+      "country": "PH"
+    },
+    {
+      "name": "Compostela Valley",
+      "country": "PH"
+    },
+    {
+      "name": "Cotabato",
+      "country": "PH"
+    },
+    {
+      "name": "Davao del Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Davao del Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Davao Occidental",
+      "country": "PH"
+    },
+    {
+      "name": "Davao Oriental",
+      "country": "PH"
+    },
+    {
+      "name": "Dinagat Islands",
+      "country": "PH"
+    },
+    {
+      "name": "Eastern Samar",
+      "country": "PH"
+    },
+    {
+      "name": "Guimaras",
+      "country": "PH"
+    },
+    {
+      "name": "Ifugao",
+      "country": "PH"
+    },
+    {
+      "name": "Ilocos Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Ilocos Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Iloilo",
+      "country": "PH"
+    },
+    {
+      "name": "Isabela",
+      "country": "PH"
+    },
+    {
+      "name": "Kalinga",
+      "country": "PH"
+    },
+    {
+      "name": "La Union",
+      "country": "PH"
+    },
+    {
+      "name": "Laguna",
+      "country": "PH"
+    },
+    {
+      "name": "Lanao del Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Lanao del Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Leyte",
+      "country": "PH"
+    },
+    {
+      "name": "Maguindanao",
+      "country": "PH"
+    },
+    {
+      "name": "Marinduque",
+      "country": "PH"
+    },
+    {
+      "name": "Masbate",
+      "country": "PH"
+    },
+    {
+      "name": "Misamis Occidental",
+      "country": "PH"
+    },
+    {
+      "name": "Misamis Oriental",
+      "country": "PH"
+    },
+    {
+      "name": "Mountain Province",
+      "country": "PH"
+    },
+    {
+      "name": "Negros Occidental",
+      "country": "PH"
+    },
+    {
+      "name": "Negros Oriental",
+      "country": "PH"
+    },
+    {
+      "name": "Northern Samar",
+      "country": "PH"
+    },
+    {
+      "name": "Nueva Ecija",
+      "country": "PH"
+    },
+    {
+      "name": "Nueva Vizcaya",
+      "country": "PH"
+    },
+    {
+      "name": "Occidental Mindoro",
+      "country": "PH"
+    },
+    {
+      "name": "Oriental Mindoro",
+      "country": "PH"
+    },
+    {
+      "name": "Palawan",
+      "country": "PH"
+    },
+    {
+      "name": "Pampanga",
+      "country": "PH"
+    },
+    {
+      "name": "Pangasinan",
+      "country": "PH"
+    },
+    {
+      "name": "Quezon",
+      "country": "PH"
+    },
+    {
+      "name": "Quirino",
+      "country": "PH"
+    },
+    {
+      "name": "Rizal",
+      "country": "PH"
+    },
+    {
+      "name": "Romblon",
+      "country": "PH"
+    },
+    {
+      "name": "Samar",
+      "country": "PH"
+    },
+    {
+      "name": "Sarangani",
+      "country": "PH"
+    },
+    {
+      "name": "Siquijor",
+      "country": "PH"
+    },
+    {
+      "name": "Sorsogon",
+      "country": "PH"
+    },
+    {
+      "name": "South Cotabato",
+      "country": "PH"
+    },
+    {
+      "name": "Southern Leyte",
+      "country": "PH"
+    },
+    {
+      "name": "Sultan Kudarat",
+      "country": "PH"
+    },
+    {
+      "name": "Sulu",
+      "country": "PH"
+    },
+    {
+      "name": "Surigao del Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Surigao del Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Tarlac",
+      "country": "PH"
+    },
+    {
+      "name": "Tawi-Tawi",
+      "country": "PH"
+    },
+    {
+      "name": "Zambales",
+      "country": "PH"
+    },
+    {
+      "name": "Zamboanga del Norte",
+      "country": "PH"
+    },
+    {
+      "name": "Zamboanga del Sur",
+      "country": "PH"
+    },
+    {
+      "name": "Zamboanga Sibugay",
+      "country": "PH"
+    },
+    {
+      "name": "Metro Manila",
+      "country": "PH"
+    }
+  ]
 }

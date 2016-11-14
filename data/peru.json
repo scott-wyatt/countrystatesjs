@@ -1,203 +1,994 @@
 {
-	"name":"Peru",
-	"altSpellings":["PE","Republic of Peru"," República del Perú"],
-	"ISO":{"alpha2":"PE","alpha3":"PER"},
-	"states": [
-		{ "name": "Chachapoyas", "region": "Amazonas", "country": "PE" },
-		{ "name": "Bagua", "region": "Amazonas", "country": "PE" },
-		{ "name": "Bongará", "region": "Amazonas", "country": "PE" },
-		{ "name": "Condorcanqui", "region": "Amazonas", "country": "PE" },
-		{ "name": "Luya", "region": "Amazonas", "country": "PE" },
-		{ "name": "Rodríguez de Mendoza", "region": "Amazonas", "country": "PE" },
-		{ "name": "Utcubamba", "region": "Amazonas", "country": "PE" },
-		{ "name": "Huaraz", "region": "Ancash", "country": "PE" },
-		{ "name": "Aija", "region": "Ancash", "country": "PE" },
-		{ "name": "Antonio Raymondi", "region": "Ancash", "country": "PE" },
-		{ "name": "Asunción", "region": "Ancash", "country": "PE" },
-		{ "name": "Bolognesi", "region": "Ancash", "country": "PE" },
-		{ "name": "Carhuaz", "region": "Ancash", "country": "PE" },
-		{ "name": "Carlos Fermín Fitzcarrald", "region": "Ancash", "country": "PE" },
-		{ "name": "Casma", "region": "Ancash", "country": "PE" },
-		{ "name": "Corongo", "region": "Ancash", "country": "PE" },
-		{ "name": "Huari", "region": "Ancash", "country": "PE" },
-		{ "name": "Huarmey", "region": "Ancash", "country": "PE" },
-		{ "name": "Huaylas", "region": "Ancash", "country": "PE" },
-		{ "name": "Mariscal Luzuriaga", "region": "Ancash", "country": "PE" },
-		{ "name": "Ocros", "region": "Ancash", "country": "PE" },
-		{ "name": "Pallasca", "region": "Ancash", "country": "PE" },
-		{ "name": "Pomabamba", "region": "Ancash", "country": "PE" },
-		{ "name": "Recuay", "region": "Ancash", "country": "PE" },
-		{ "name": "Santa", "region": "Ancash", "country": "PE" },
-		{ "name": "Sihuas", "region": "Ancash", "country": "PE" },
-		{ "name": "Yungay", "region": "Ancash", "country": "PE" },
-		{ "name": "Abancay", "region": "Apurímac", "country": "PE" },
-		{ "name": "Andahuaylas", "region": "Apurímac", "country": "PE" },
-		{ "name": "Antabamba", "region": "Apurímac", "country": "PE" },
-		{ "name": "Aymaraes", "region": "Apurímac", "country": "PE" },
-		{ "name": "Cotabambas", "region": "Apurímac", "country": "PE" },
-		{ "name": "Chincheros", "region": "Apurímac", "country": "PE" },
-		{ "name": "Grau", "region": "Apurímac", "country": "PE" },
-		{ "name": "Arequipa", "region": "Arequipa", "country": "PE" },
-		{ "name": "Camaná", "region": "Arequipa", "country": "PE" },
-		{ "name": "Caravelí", "region": "Arequipa", "country": "PE" },
-		{ "name": "Castilla", "region": "Arequipa", "country": "PE" },
-		{ "name": "Caylloma", "region": "Arequipa", "country": "PE" },
-		{ "name": "Condesuyos", "region": "Arequipa", "country": "PE" },
-		{ "name": "Islay", "region": "Arequipa", "country": "PE" },
-		{ "name": "La Unión", "region": "Arequipa", "country": "PE" },
-		{ "name": "Huamanga", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Cangallo", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Huanca Sancos", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Huanta", "region": "Ayacucho", "country": "PE" },
-		{ "name": "La Mar", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Lucanas", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Parinacochas", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Páucar del Sara Sara", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Sucre", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Víctor Fajardo", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Vilcas Huamán", "region": "Ayacucho", "country": "PE" },
-		{ "name": "Cajamarca", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Cajabamba", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Celendín", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Chota", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Contumazá", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Cutervo", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Hualgayoc", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Jaén", "region": "Cajamarca", "country": "PE" },
-		{ "name": "San Ignacio", "region": "Cajamarca", "country": "PE" },
-		{ "name": "San Marcos", "region": "Cajamarca", "country": "PE" },
-		{ "name": "San Miguel", "region": "Cajamarca", "country": "PE" },
-		{ "name": "San Pablo", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Santa Cruz", "region": "Cajamarca", "country": "PE" },
-		{ "name": "Callao", "region": "Callao", "country": "PE" },
-		{ "name": "Cusco", "region": "Cusco", "country": "PE" },
-		{ "name": "Acomayo", "region": "Cusco", "country": "PE" },
-		{ "name": "Anta", "region": "Cusco", "country": "PE" },
-		{ "name": "Calca", "region": "Cusco", "country": "PE" },
-		{ "name": "Canas", "region": "Cusco", "country": "PE" },
-		{ "name": "Canchis", "region": "Cusco", "country": "PE" },
-		{ "name": "Chumbivilcas", "region": "Cusco", "country": "PE" },
-		{ "name": "Espinar", "region": "Cusco", "country": "PE" },
-		{ "name": "La Convención", "region": "Cusco", "country": "PE" },
-		{ "name": "Paruro", "region": "Cusco", "country": "PE" },
-		{ "name": "Paucartambo", "region": "Cusco", "country": "PE" },
-		{ "name": "Quispicanchi", "region": "Cusco", "country": "PE" },
-		{ "name": "Urubamba", "region": "Cusco", "country": "PE" },
-		{ "name": "Huancavelica", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Acobamba", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Angaraes", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Castrovirreyna", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Churcampa", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Huaytará", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Tayacaja", "region": "Huancavelica", "country": "PE" },
-		{ "name": "Huánuco", "region": "Huánuco", "country": "PE" },
-		{ "name": "Ambo", "region": "Huánuco", "country": "PE" },
-		{ "name": "Dos de Mayo", "region": "Huánuco", "country": "PE" },
-		{ "name": "Huacaybamba", "region": "Huánuco", "country": "PE" },
-		{ "name": "Huamalíes", "region": "Huánuco", "country": "PE" },
-		{ "name": "Leoncio Prado", "region": "Huánuco", "country": "PE" },
-		{ "name": "Marañón", "region": "Huánuco", "country": "PE" },
-		{ "name": "Pachitea", "region": "Huánuco", "country": "PE" },
-		{ "name": "Puerto Inca", "region": "Huánuco", "country": "PE" },
-		{ "name": "Lauricocha", "region": "Huánuco", "country": "PE" },
-		{ "name": "Yarowilca", "region": "Huánuco", "country": "PE" },
-		{ "name": "Ica", "region": "Ica", "country": "PE" },
-		{ "name": "Chincha", "region": "Ica", "country": "PE" },
-		{ "name": "Nazca", "region": "Ica", "country": "PE" },
-		{ "name": "Palpa", "region": "Ica", "country": "PE" },
-		{ "name": "Pisco", "region": "Ica", "country": "PE" },
-		{ "name": "Huancayo", "region": "Junín", "country": "PE" },
-		{ "name": "Concepción", "region": "Junín", "country": "PE" },
-		{ "name": "Chanchamayo", "region": "Junín", "country": "PE" },
-		{ "name": "Jauja", "region": "Junín", "country": "PE" },
-		{ "name": "Junín", "region": "Junín", "country": "PE" },
-		{ "name": "Satipo", "region": "Junín", "country": "PE" },
-		{ "name": "Tarma", "region": "Junín", "country": "PE" },
-		{ "name": "Yauli", "region": "Junín", "country": "PE" },
-		{ "name": "Chupaca", "region": "Junín", "country": "PE" },
-		{ "name": "Trujillo", "region": "La Libertad", "country": "PE" },
-		{ "name": "Ascope", "region": "La Libertad", "country": "PE" },
-		{ "name": "Bolívar", "region": "La Libertad", "country": "PE" },
-		{ "name": "Chepén", "region": "La Libertad", "country": "PE" },
-		{ "name": "Julcán", "region": "La Libertad", "country": "PE" },
-		{ "name": "Otuzco", "region": "La Libertad", "country": "PE" },
-		{ "name": "Pacasmayo", "region": "La Libertad", "country": "PE" },
-		{ "name": "Pataz", "region": "La Libertad", "country": "PE" },
-		{ "name": "Sánchez Carrión", "region": "La Libertad", "country": "PE" },
-		{ "name": "Santiago de Chuco", "region": "La Libertad", "country": "PE" },
-		{ "name": "Gran Chimú", "region": "La Libertad", "country": "PE" },
-		{ "name": "Virú", "region": "La Libertad", "country": "PE" },
-		{ "name": "Chiclayo", "region": "Lambayeque", "country": "PE" },
-		{ "name": "Ferreñafe", "region": "Lambayeque", "country": "PE" },
-		{ "name": "Lambayeque", "region": "Lambayeque", "country": "PE" },
-		{ "name": "Lima", "region": "autonomous", "country": "PE" },
-		{ "name": "Huaura", "region": "Lima", "country": "PE" },
-		{ "name": "Barranca", "region": "Lima", "country": "PE" },
-		{ "name": "Cajatambo", "region": "Lima", "country": "PE" },
-		{ "name": "Canta", "region": "Lima", "country": "PE" },
-		{ "name": "Cañete", "region": "Lima", "country": "PE" },
-		{ "name": "Huaral", "region": "Lima", "country": "PE" },
-		{ "name": "Huarochirí", "region": "Lima", "country": "PE" },
-		{ "name": "Oyón", "region": "Lima", "country": "PE" },
-		{ "name": "Yauyos", "region": "Lima", "country": "PE" },
-		{ "name": "Maynas", "region": "Loreto", "country": "PE" },
-		{ "name": "Alto Amazonas", "region": "Loreto", "country": "PE" },
-		{ "name": "Loreto", "region": "Loreto", "country": "PE" },
-		{ "name": "Mariscal Ramón Castilla", "region": "Loreto", "country": "PE" },
-		{ "name": "Putumayo", "region": "Loreto", "country": "PE" },
-		{ "name": "Requena", "region": "Loreto", "country": "PE" },
-		{ "name": "Ucayali", "region": "Loreto", "country": "PE" },
-		{ "name": "Datem del Marañón", "region": "Loreto", "country": "PE" },
-		{ "name": "Tambopata", "region": "Madre de Dios", "country": "PE" },
-		{ "name": "Manú", "region": "Madre de Dios", "country": "PE" },
-		{ "name": "Tahuamanu", "region": "Madre de Dios", "country": "PE" },
-		{ "name": "Mariscal Nieto", "region": "Moquegua", "country": "PE" },
-		{ "name": "General Sánchez Cerro", "region": "Moquegua", "country": "PE" },
-		{ "name": "Ilo", "region": "Moquegua", "country": "PE" },
-		{ "name": "Pasco", "region": "Pasco", "country": "PE" },
-		{ "name": "Daniel Alcídes Carrión", "region": "Pasco", "country": "PE" },
-		{ "name": "Oxapampa", "region": "Pasco", "country": "PE" },
-		{ "name": "Piura", "region": "Piura", "country": "PE" },
-		{ "name": "Ayabaca", "region": "Piura", "country": "PE" },
-		{ "name": "Huancabamba", "region": "Piura", "country": "PE" },
-		{ "name": "Morropón", "region": "Piura", "country": "PE" },
-		{ "name": "Paita", "region": "Piura", "country": "PE" },
-		{ "name": "Sullana", "region": "Piura", "country": "PE" },
-		{ "name": "Talara", "region": "Piura", "country": "PE" },
-		{ "name": "Sechura", "region": "Piura", "country": "PE" },
-		{ "name": "Puno", "region": "Puno", "country": "PE" },
-		{ "name": "Azángaro", "region": "Puno", "country": "PE" },
-		{ "name": "Carabaya", "region": "Puno", "country": "PE" },
-		{ "name": "Chucuito", "region": "Puno", "country": "PE" },
-		{ "name": "El Collao", "region": "Puno", "country": "PE" },
-		{ "name": "Huancané", "region": "Puno", "country": "PE" },
-		{ "name": "Lampa", "region": "Puno", "country": "PE" },
-		{ "name": "Melgar", "region": "Puno", "country": "PE" },
-		{ "name": "Moho", "region": "Puno", "country": "PE" },
-		{ "name": "San Antonio de Putina", "region": "Puno", "country": "PE" },
-		{ "name": "San Román", "region": "Puno", "country": "PE" },
-		{ "name": "Sandia", "region": "Puno", "country": "PE" },
-		{ "name": "Yunguyo", "region": "Puno", "country": "PE" },
-		{ "name": "Moyobamba", "region": "San Martín", "country": "PE" },
-		{ "name": "Bellavista", "region": "San Martín", "country": "PE" },
-		{ "name": "El Dorado", "region": "San Martín", "country": "PE" },
-		{ "name": "Huallaga", "region": "San Martín", "country": "PE" },
-		{ "name": "Lamas", "region": "San Martín", "country": "PE" },
-		{ "name": "Mariscal Cáceres", "region": "San Martín", "country": "PE" },
-		{ "name": "Picota", "region": "San Martín", "country": "PE" },
-		{ "name": "Rioja", "region": "San Martín", "country": "PE" },
-		{ "name": "San Martín", "region": "San Martín", "country": "PE" },
-		{ "name": "Tocache", "region": "San Martín", "country": "PE" },
-		{ "name": "Tacna", "region": "Tacna", "country": "PE" },
-		{ "name": "Candarave", "region": "Tacna", "country": "PE" },
-		{ "name": "Jorge Basadre", "region": "Tacna", "country": "PE" },
-		{ "name": "Tarata", "region": "Tacna", "country": "PE" },
-		{ "name": "Tumbes", "region": "Tumbes", "country": "PE" },
-		{ "name": "Contralmirante Villar", "region": "Tumbes", "country": "PE" },
-		{ "name": "Zarumilla", "region": "Tumbes", "country": "PE" },
-		{ "name": "Coronel Portillo", "region": "Ucayali", "country": "PE" },
-		{ "name": "Atalaya", "region": "Ucayali", "country": "PE" },
-		{ "name": "Padre Abad", "region": "Ucayali", "country": "PE" },
-		{ "name": "Purús", "region": "Ucayali", "country": "PE" }
-	]
+  "name": "Peru",
+  "altSpellings": [
+    "PE",
+    "Republic of Peru",
+    " República del Perú"
+  ],
+  "ISO": {
+    "alpha2": "PE",
+    "alpha3": "PER"
+  },
+  "states": [
+    {
+      "name": "Chachapoyas",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Bagua",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Bongará",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Condorcanqui",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Luya",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Rodríguez de Mendoza",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Utcubamba",
+      "region": "Amazonas",
+      "country": "PE"
+    },
+    {
+      "name": "Huaraz",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Aija",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Antonio Raymondi",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Asunción",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Bolognesi",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Carhuaz",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Carlos Fermín Fitzcarrald",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Casma",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Corongo",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Huari",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Huarmey",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Huaylas",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Mariscal Luzuriaga",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Ocros",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Pallasca",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Pomabamba",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Recuay",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Santa",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Sihuas",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Yungay",
+      "region": "Ancash",
+      "country": "PE"
+    },
+    {
+      "name": "Abancay",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Andahuaylas",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Antabamba",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Aymaraes",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Cotabambas",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Chincheros",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Grau",
+      "region": "Apurímac",
+      "country": "PE"
+    },
+    {
+      "name": "Arequipa",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Camaná",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Caravelí",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Castilla",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Caylloma",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Condesuyos",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Islay",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "La Unión",
+      "region": "Arequipa",
+      "country": "PE"
+    },
+    {
+      "name": "Huamanga",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Cangallo",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Huanca Sancos",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Huanta",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "La Mar",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Lucanas",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Parinacochas",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Páucar del Sara Sara",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Sucre",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Víctor Fajardo",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Vilcas Huamán",
+      "region": "Ayacucho",
+      "country": "PE"
+    },
+    {
+      "name": "Cajamarca",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Cajabamba",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Celendín",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Chota",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Contumazá",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Cutervo",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Hualgayoc",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Jaén",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "San Ignacio",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "San Marcos",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "San Miguel",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "San Pablo",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Santa Cruz",
+      "region": "Cajamarca",
+      "country": "PE"
+    },
+    {
+      "name": "Callao",
+      "region": "Callao",
+      "country": "PE"
+    },
+    {
+      "name": "Cusco",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Acomayo",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Anta",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Calca",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Canas",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Canchis",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Chumbivilcas",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Espinar",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "La Convención",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Paruro",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Paucartambo",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Quispicanchi",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Urubamba",
+      "region": "Cusco",
+      "country": "PE"
+    },
+    {
+      "name": "Huancavelica",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Acobamba",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Angaraes",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Castrovirreyna",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Churcampa",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Huaytará",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Tayacaja",
+      "region": "Huancavelica",
+      "country": "PE"
+    },
+    {
+      "name": "Huánuco",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Ambo",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Dos de Mayo",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Huacaybamba",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Huamalíes",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Leoncio Prado",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Marañón",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Pachitea",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Puerto Inca",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Lauricocha",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Yarowilca",
+      "region": "Huánuco",
+      "country": "PE"
+    },
+    {
+      "name": "Ica",
+      "region": "Ica",
+      "country": "PE"
+    },
+    {
+      "name": "Chincha",
+      "region": "Ica",
+      "country": "PE"
+    },
+    {
+      "name": "Nazca",
+      "region": "Ica",
+      "country": "PE"
+    },
+    {
+      "name": "Palpa",
+      "region": "Ica",
+      "country": "PE"
+    },
+    {
+      "name": "Pisco",
+      "region": "Ica",
+      "country": "PE"
+    },
+    {
+      "name": "Huancayo",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Concepción",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Chanchamayo",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Jauja",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Junín",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Satipo",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Tarma",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Yauli",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Chupaca",
+      "region": "Junín",
+      "country": "PE"
+    },
+    {
+      "name": "Trujillo",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Ascope",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Bolívar",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Chepén",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Julcán",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Otuzco",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Pacasmayo",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Pataz",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Sánchez Carrión",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Santiago de Chuco",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Gran Chimú",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Virú",
+      "region": "La Libertad",
+      "country": "PE"
+    },
+    {
+      "name": "Chiclayo",
+      "region": "Lambayeque",
+      "country": "PE"
+    },
+    {
+      "name": "Ferreñafe",
+      "region": "Lambayeque",
+      "country": "PE"
+    },
+    {
+      "name": "Lambayeque",
+      "region": "Lambayeque",
+      "country": "PE"
+    },
+    {
+      "name": "Lima",
+      "region": "autonomous",
+      "country": "PE"
+    },
+    {
+      "name": "Huaura",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Barranca",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Cajatambo",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Canta",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Cañete",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Huaral",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Huarochirí",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Oyón",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Yauyos",
+      "region": "Lima",
+      "country": "PE"
+    },
+    {
+      "name": "Maynas",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Alto Amazonas",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Loreto",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Mariscal Ramón Castilla",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Putumayo",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Requena",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Ucayali",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Datem del Marañón",
+      "region": "Loreto",
+      "country": "PE"
+    },
+    {
+      "name": "Tambopata",
+      "region": "Madre de Dios",
+      "country": "PE"
+    },
+    {
+      "name": "Manú",
+      "region": "Madre de Dios",
+      "country": "PE"
+    },
+    {
+      "name": "Tahuamanu",
+      "region": "Madre de Dios",
+      "country": "PE"
+    },
+    {
+      "name": "Mariscal Nieto",
+      "region": "Moquegua",
+      "country": "PE"
+    },
+    {
+      "name": "General Sánchez Cerro",
+      "region": "Moquegua",
+      "country": "PE"
+    },
+    {
+      "name": "Ilo",
+      "region": "Moquegua",
+      "country": "PE"
+    },
+    {
+      "name": "Pasco",
+      "region": "Pasco",
+      "country": "PE"
+    },
+    {
+      "name": "Daniel Alcídes Carrión",
+      "region": "Pasco",
+      "country": "PE"
+    },
+    {
+      "name": "Oxapampa",
+      "region": "Pasco",
+      "country": "PE"
+    },
+    {
+      "name": "Piura",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Ayabaca",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Huancabamba",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Morropón",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Paita",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Sullana",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Talara",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Sechura",
+      "region": "Piura",
+      "country": "PE"
+    },
+    {
+      "name": "Puno",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Azángaro",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Carabaya",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Chucuito",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "El Collao",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Huancané",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Lampa",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Melgar",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Moho",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "San Antonio de Putina",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "San Román",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Sandia",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Yunguyo",
+      "region": "Puno",
+      "country": "PE"
+    },
+    {
+      "name": "Moyobamba",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Bellavista",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "El Dorado",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Huallaga",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Lamas",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Mariscal Cáceres",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Picota",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Rioja",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "San Martín",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Tocache",
+      "region": "San Martín",
+      "country": "PE"
+    },
+    {
+      "name": "Tacna",
+      "region": "Tacna",
+      "country": "PE"
+    },
+    {
+      "name": "Candarave",
+      "region": "Tacna",
+      "country": "PE"
+    },
+    {
+      "name": "Jorge Basadre",
+      "region": "Tacna",
+      "country": "PE"
+    },
+    {
+      "name": "Tarata",
+      "region": "Tacna",
+      "country": "PE"
+    },
+    {
+      "name": "Tumbes",
+      "region": "Tumbes",
+      "country": "PE"
+    },
+    {
+      "name": "Contralmirante Villar",
+      "region": "Tumbes",
+      "country": "PE"
+    },
+    {
+      "name": "Zarumilla",
+      "region": "Tumbes",
+      "country": "PE"
+    },
+    {
+      "name": "Coronel Portillo",
+      "region": "Ucayali",
+      "country": "PE"
+    },
+    {
+      "name": "Atalaya",
+      "region": "Ucayali",
+      "country": "PE"
+    },
+    {
+      "name": "Padre Abad",
+      "region": "Ucayali",
+      "country": "PE"
+    },
+    {
+      "name": "Purús",
+      "region": "Ucayali",
+      "country": "PE"
+    }
+  ]
 }

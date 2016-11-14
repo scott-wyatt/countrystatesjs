@@ -1,0 +1,94 @@
+{
+  "name": "Italy",
+  "altSpellings": [
+    "IT",
+    "Italiana",
+    "Repubblica Italiana"
+  ],
+  "ISO": {
+    "alpha2": "IT",
+    "alpha3": "ITA"
+  },
+  "states": [
+    {
+      "name": "Abruzzo",
+      "country": "IT"
+    },
+    {
+      "name": "Basilicata",
+      "country": "IT"
+    },
+    {
+      "name": "Calabria",
+      "country": "IT"
+    },
+    {
+      "name": "Campania",
+      "country": "IT"
+    },
+    {
+      "name": "Emilia-Romagna",
+      "country": "IT"
+    },
+    {
+      "name": "Friuli-Venezia Giulia",
+      "country": "IT"
+    },
+    {
+      "name": "Lazio",
+      "country": "IT"
+    },
+    {
+      "name": "Liguria",
+      "country": "IT"
+    },
+    {
+      "name": "Lombardia",
+      "country": "IT"
+    },
+    {
+      "name": "Marche",
+      "country": "IT"
+    },
+    {
+      "name": "Molise",
+      "country": "IT"
+    },
+    {
+      "name": "Piemonte",
+      "country": "IT"
+    },
+    {
+      "name": "Puglia",
+      "country": "IT"
+    },
+    {
+      "name": "Sardegna",
+      "country": "IT"
+    },
+    {
+      "name": "Sicilia",
+      "country": "IT"
+    },
+    {
+      "name": "Toscana",
+      "country": "IT"
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "country": "IT"
+    },
+    {
+      "name": "Umbria",
+      "country": "IT"
+    },
+    {
+      "name": "Valle d'Aosta",
+      "country": "IT"
+    },
+    {
+      "name": "Veneto",
+      "country": "IT"
+    }
+  ]
+}

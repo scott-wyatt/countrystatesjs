@@ -1,43 +1,195 @@
 {
-	"name":"India",
-	"altSpellings":["IN","Bhārat","Republic of India","Bharat Ganrajya"],
-	"ISO":{"alpha2":"IN","alpha3":"IND"},
-	"states": [
-		{ "abbreviation": "AP", "name": "Andhra Pradesh", "country": "IN" },
-		{ "abbreviation": "AR", "name": "Arunachal Pradesh", "country": "IN" },
-		{ "abbreviation": "AS", "name": "Assam", "country": "IN" },
-		{ "abbreviation": "BR", "name": "Bihar", "country": "IN" },
-		{ "abbreviation": "CT", "name": "Chhattisgarh", "country": "IN" },
-		{ "abbreviation": "GA", "name": "Goa", "country": "IN" },
-		{ "abbreviation": "GJ", "name": "Gujarat", "country": "IN" },
-		{ "abbreviation": "HR", "name": "Haryana", "country": "IN" },
-		{ "abbreviation": "HP", "name": "Himachal Pradesh", "country": "IN" },
-		{ "abbreviation": "JK", "name": "Jammu and Kashmir", "country": "IN" },
-		{ "abbreviation": "JH", "name": "Jharkhand", "country": "IN" },
-		{ "abbreviation": "KA", "name": "Karnataka", "country": "IN" },
-		{ "abbreviation": "KL", "name": "Kerala", "country": "IN" },
-		{ "abbreviation": "MP", "name": "Madhya Pradesh", "country": "IN" },
-		{ "abbreviation": "MH", "name": "Maharashtra", "country": "IN" },
-		{ "abbreviation": "MN", "name": "Manipur", "country": "IN" },
-		{ "abbreviation": "ML", "name": "Meghalaya", "country": "IN" },
-		{ "abbreviation": "MZ", "name": "Mizoram", "country": "IN" },
-		{ "abbreviation": "NL", "name": "Nagaland", "country": "IN" },
-		{ "abbreviation": "OR", "name": "Odisha", "country": "IN" },
-		{ "abbreviation": "PB", "name": "Punjab", "country": "IN" },
-		{ "abbreviation": "RJ", "name": "Rajasthan", "country": "IN" },
-		{ "abbreviation": "SK", "name": "Sikkim", "country": "IN" },
-		{ "abbreviation": "TN", "name": "Tamil Nadu", "country": "IN" },
-		{ "abbreviation": "TG", "name": "Telangana", "country": "IN" },
-		{ "abbreviation": "TR", "name": "Tripura", "country": "IN" },
-		{ "abbreviation": "UP", "name": "Uttar Pradesh", "country": "IN" },
-		{ "abbreviation": "UT", "name": "Uttarakhand", "country": "IN" },
-		{ "abbreviation": "WB", "name": "West Bengal", "country": "IN" },
-		{ "abbreviation": "AN", "name": "Andaman and Nicobar Islands", "country": "IN" },
-		{ "abbreviation": "CH", "name": "Chandigarh", "country": "IN" },
-		{ "abbreviation": "DN", "name": "Dadra and Nagar Haveli", "country": "IN" },
-		{ "abbreviation": "DD", "name": "Daman and Diu", "country": "IN" },
-		{ "abbreviation": "LD", "name": "Lakshadweep", "country": "IN" },
-		{ "abbreviation": "DL", "name": "National Capital Territory of Delhi", "country": "IN" },
-		{ "abbreviation": "PY", "name": "Puducherry", "country": "IN" }
-	]
+  "name": "India",
+  "altSpellings": [
+    "IN",
+    "Bhārat",
+    "Republic of India",
+    "Bharat Ganrajya"
+  ],
+  "ISO": {
+    "alpha2": "IN",
+    "alpha3": "IND"
+  },
+  "states": [
+    {
+      "abbreviation": "AP",
+      "name": "Andhra Pradesh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "AR",
+      "name": "Arunachal Pradesh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "AS",
+      "name": "Assam",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "BR",
+      "name": "Bihar",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "CT",
+      "name": "Chhattisgarh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "GA",
+      "name": "Goa",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "GJ",
+      "name": "Gujarat",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "HR",
+      "name": "Haryana",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "HP",
+      "name": "Himachal Pradesh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "JK",
+      "name": "Jammu and Kashmir",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "JH",
+      "name": "Jharkhand",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "KA",
+      "name": "Karnataka",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "KL",
+      "name": "Kerala",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "MP",
+      "name": "Madhya Pradesh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "MH",
+      "name": "Maharashtra",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "MN",
+      "name": "Manipur",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "ML",
+      "name": "Meghalaya",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "MZ",
+      "name": "Mizoram",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "NL",
+      "name": "Nagaland",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "OR",
+      "name": "Odisha",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "PB",
+      "name": "Punjab",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "RJ",
+      "name": "Rajasthan",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "SK",
+      "name": "Sikkim",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "TN",
+      "name": "Tamil Nadu",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "TG",
+      "name": "Telangana",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "TR",
+      "name": "Tripura",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "UP",
+      "name": "Uttar Pradesh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "UT",
+      "name": "Uttarakhand",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "WB",
+      "name": "West Bengal",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "AN",
+      "name": "Andaman and Nicobar Islands",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "CH",
+      "name": "Chandigarh",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "DN",
+      "name": "Dadra and Nagar Haveli",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "DD",
+      "name": "Daman and Diu",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "LD",
+      "name": "Lakshadweep",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "DL",
+      "name": "National Capital Territory of Delhi",
+      "country": "IN"
+    },
+    {
+      "abbreviation": "PY",
+      "name": "Puducherry",
+      "country": "IN"
+    }
+  ]
 }

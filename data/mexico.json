@@ -1,39 +1,290 @@
 {
-	"name":"Mexico",
-	"altSpellings":["MX","Mexicanos","United Mexican States","Estados Unidos Mexicanos"],
-	"ISO":{"alpha2":"MX","alpha3":"MEX"},
-	"states": [
-		{"name":"Aguascalientes","abbreviation":"AG","altSpellings":["AGS"],"country":"MX"},
-		{"name":"Baja California","abbreviation":"BC","altSpellings":["BCN"],"country":"MX"},
-		{"name":"Baja California Sur","abbreviation":"BS","altSpellings":["BCS"],"country":"MX"},
-		{"name":"Campeche","abbreviation":"CM","altSpellings":["Camp","CAM"],"country":"MX"},
-		{"name":"Chiapas","abbreviation":"CS","altSpellings":["Chis","CHP"],"country":"MX"},
-		{"name":"Chihuahua","abbreviation":"CH","altSpellings":["Chih","CHH"],"country":"MX"},
-		{"name":"Coahuila","abbreviation":"MX","altSpellings":["Coah","COA"],"country":"MX"},
-		{"name":"Colima","abbreviation":"CL","altSpellings":["COL"],"country":"MX"},
-		{"name":"Federal District","abbreviation":"DF","altSpellings":["DIF"],"country":"MX"},
-		{"name":"Durango","abbreviation":"DG","altSpellings":["Dgo","DUR"],"country":"MX"},
-		{"name":"Guanajuato","abbreviation":"GT","altSpellings":["Gto","GUA"],"country":"MX"},
-		{"name":"Guerrero","abbreviation":"GR","altSpellings":["Gro","GRO"],"country":"MX"},
-		{"name":"Hidalgo","abbreviation":"HG","altSpellings":["Hgo","HID"],"country":"MX"},
-		{"name":"Jalisco","abbreviation":"JA","altSpellings":["Jal","JAL"],"country":"MX"},
-		{"name":"Mexico","abbreviation":"ME","altSpellings":["Edomex","MEX"],"country":"MX"},
-		{"name":"Michoacán","abbreviation":"MI","altSpellings":["Mich","MIC"],"country":"MX"},
-		{"name":"Morelos","abbreviation":"MO","altSpellings":["Mor","MOR"],"country":"MX"},
-		{"name":"Nayarit","abbreviation":"NA","altSpellings":["Nay","NAY"],"country":"MX"},
-		{"name":"Nuevo León","abbreviation":"NL","altSpellings":["NLE"],"country":"MX"},
-		{"name":"Oaxaca","abbreviation":"OA","altSpellings":["Oax","OAX"],"country":"MX"},
-		{"name":"Puebla","abbreviation":"PU","altSpellings":["Pue","PUE"],"country":"MX"},
-		{"name":"Querétaro","abbreviation":"QE","altSpellings":["Qro","QUE"],"country":"MX"},
-		{"name":"Quintana Roo","abbreviation":"QR","altSpellings":["Q Roo","ROO"],"country":"MX"},
-		{"name":"San Luis Potosí","abbreviation":"SL","altSpellings":["SLP"],"country":"MX"},
-		{"name":"Sinaloa","abbreviation":"SI","altSpellings":["SIN"],"country":"MX"},
-		{"name":"Sonora","abbreviation":"SO","altSpellings":["SON"],"country":"MX"},
-		{"name":"Tabasco","abbreviation":"TB","altSpellings":["TAB"],"country":"MX"},
-		{"name":"Tamaulipas","abbreviation":"TM","altSpellings":["Tamps","TAM"],"country":"MX"},
-		{"name":"Tlaxcala","abbreviation":"TL","altSpellings":["Tlax","TLA"],"country":"MX"},
-		{"name":"Veracruz","abbreviation":"VE","altSpellings":["VER"],"country":"MX"},
-		{"name":"Yucatán","abbreviation":"YU","altSpellings":["YUC"],"country":"MX"},
-		{"name":"Zacatecas","abbreviation":"ZA","altSpellings":["ZAC"],"country":"MX"}
-	]
+  "name": "Mexico",
+  "altSpellings": [
+    "MX",
+    "Mexicanos",
+    "United Mexican States",
+    "Estados Unidos Mexicanos"
+  ],
+  "ISO": {
+    "alpha2": "MX",
+    "alpha3": "MEX"
+  },
+  "states": [
+    {
+      "name": "Aguascalientes",
+      "abbreviation": "AG",
+      "altSpellings": [
+        "AGS"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Baja California",
+      "abbreviation": "BC",
+      "altSpellings": [
+        "BCN"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Baja California Sur",
+      "abbreviation": "BS",
+      "altSpellings": [
+        "BCS"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Campeche",
+      "abbreviation": "CM",
+      "altSpellings": [
+        "Camp",
+        "CAM"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Chiapas",
+      "abbreviation": "CS",
+      "altSpellings": [
+        "Chis",
+        "CHP"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Chihuahua",
+      "abbreviation": "CH",
+      "altSpellings": [
+        "Chih",
+        "CHH"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Coahuila",
+      "abbreviation": "MX",
+      "altSpellings": [
+        "Coah",
+        "COA"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Colima",
+      "abbreviation": "CL",
+      "altSpellings": [
+        "COL"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Federal District",
+      "abbreviation": "DF",
+      "altSpellings": [
+        "DIF"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Durango",
+      "abbreviation": "DG",
+      "altSpellings": [
+        "Dgo",
+        "DUR"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Guanajuato",
+      "abbreviation": "GT",
+      "altSpellings": [
+        "Gto",
+        "GUA"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Guerrero",
+      "abbreviation": "GR",
+      "altSpellings": [
+        "Gro",
+        "GRO"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Hidalgo",
+      "abbreviation": "HG",
+      "altSpellings": [
+        "Hgo",
+        "HID"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Jalisco",
+      "abbreviation": "JA",
+      "altSpellings": [
+        "Jal",
+        "JAL"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Mexico",
+      "abbreviation": "ME",
+      "altSpellings": [
+        "Edomex",
+        "MEX"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Michoacán",
+      "abbreviation": "MI",
+      "altSpellings": [
+        "Mich",
+        "MIC"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Morelos",
+      "abbreviation": "MO",
+      "altSpellings": [
+        "Mor",
+        "MOR"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Nayarit",
+      "abbreviation": "NA",
+      "altSpellings": [
+        "Nay",
+        "NAY"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Nuevo León",
+      "abbreviation": "NL",
+      "altSpellings": [
+        "NLE"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Oaxaca",
+      "abbreviation": "OA",
+      "altSpellings": [
+        "Oax",
+        "OAX"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Puebla",
+      "abbreviation": "PU",
+      "altSpellings": [
+        "Pue",
+        "PUE"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Querétaro",
+      "abbreviation": "QE",
+      "altSpellings": [
+        "Qro",
+        "QUE"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Quintana Roo",
+      "abbreviation": "QR",
+      "altSpellings": [
+        "Q Roo",
+        "ROO"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "San Luis Potosí",
+      "abbreviation": "SL",
+      "altSpellings": [
+        "SLP"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Sinaloa",
+      "abbreviation": "SI",
+      "altSpellings": [
+        "SIN"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Sonora",
+      "abbreviation": "SO",
+      "altSpellings": [
+        "SON"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Tabasco",
+      "abbreviation": "TB",
+      "altSpellings": [
+        "TAB"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Tamaulipas",
+      "abbreviation": "TM",
+      "altSpellings": [
+        "Tamps",
+        "TAM"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Tlaxcala",
+      "abbreviation": "TL",
+      "altSpellings": [
+        "Tlax",
+        "TLA"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Veracruz",
+      "abbreviation": "VE",
+      "altSpellings": [
+        "VER"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Yucatán",
+      "abbreviation": "YU",
+      "altSpellings": [
+        "YUC"
+      ],
+      "country": "MX"
+    },
+    {
+      "name": "Zacatecas",
+      "abbreviation": "ZA",
+      "altSpellings": [
+        "ZAC"
+      ],
+      "country": "MX"
+    }
+  ]
 }

@@ -1,16 +1,60 @@
 {
-	"name":"Austria",
-	"altSpellings":["AT","Österreich","Osterreich","Oesterreich"],
-	"ISO":{"alpha2":"AT","alpha3":"AUT"},
-	"states": [
-		{"abbreviation":"B","name":"Burgenland","country":"AT"},
-		{"abbreviation":"K","name":"Kärnten","country":"AT"},
-		{"abbreviation":"NÖ","name":"Niederösterreich","country":"AT"},
-		{"abbreviation":"OÖ","name":"Oberösterreich","country":"AT"},
-		{"abbreviation":"S","name":"Salzburg","country":"AT"},
-		{"abbreviation":"ST","name":"Steiermark","country":"AT"},
-		{"abbreviation":"T","name":"Tirol","country":"AT"},
-		{"abbreviation":"V","name":"Vorarlberg","country":"AT"},
-		{"abbreviation":"W","name":"Wien","country":"AT"}
-	]
+  "name": "Austria",
+  "altSpellings": [
+    "AT",
+    "Österreich",
+    "Osterreich",
+    "Oesterreich"
+  ],
+  "ISO": {
+    "alpha2": "AT",
+    "alpha3": "AUT"
+  },
+  "states": [
+    {
+      "abbreviation": "B",
+      "name": "Burgenland",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "K",
+      "name": "Kärnten",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "NÖ",
+      "name": "Niederösterreich",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "OÖ",
+      "name": "Oberösterreich",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "S",
+      "name": "Salzburg",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "ST",
+      "name": "Steiermark",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "T",
+      "name": "Tirol",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "V",
+      "name": "Vorarlberg",
+      "country": "AT"
+    },
+    {
+      "abbreviation": "W",
+      "name": "Wien",
+      "country": "AT"
+    }
+  ]
 }

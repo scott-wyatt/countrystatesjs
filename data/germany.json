@@ -1,23 +1,94 @@
 {
-	"name":"Germany",
-	"altSpellings":["DE","Federal Republic of Germany","Bundesrepublik Deutschland"],
-	"ISO":{"alpha2":"DE","alpha3":"DEU"},
-	"states": [
-		{"abbreviation":"BW","name":"Baden-Württemberg","country":"DE"},
-		{"abbreviation":"BY","name":"Bayern","country":"DE"},
-		{"abbreviation":"BE","name":"Berlin","country":"DE"},
-		{"abbreviation":"BB","name":"Brandenburg","country":"DE"},
-		{"abbreviation":"HB","name":"Bremen","country":"DE"},
-		{"abbreviation":"HH","name":"Hamburg","country":"DE"},
-		{"abbreviation":"HE","name":"Hessen","country":"DE"},
-		{"abbreviation":"MV","name":"Mecklenburg-Vorpommern","country":"DE"},
-		{"abbreviation":"NI","name":"Niedersachsen","country":"DE"},
-		{"abbreviation":"NW","name":"Nordrhein-Westfalen","country":"DE"},
-		{"abbreviation":"RP","name":"Rheinland-Pfalz","country":"DE"},
-		{"abbreviation":"SL","name":"Saarland","country":"DE"},
-		{"abbreviation":"SN","name":"Sachsen","country":"DE"},
-		{"abbreviation":"ST","name":"Sachsen-Anhalt","country":"DE"},
-		{"abbreviation":"SH","name":"Schleswig-Holstein","country":"DE"},
-		{"abbreviation":"TH","name":"Thüringen","country":"DE"}
-	]
+  "name": "Germany",
+  "altSpellings": [
+    "DE",
+    "Federal Republic of Germany",
+    "Bundesrepublik Deutschland"
+  ],
+  "ISO": {
+    "alpha2": "DE",
+    "alpha3": "DEU"
+  },
+  "states": [
+    {
+      "abbreviation": "BW",
+      "name": "Baden-Württemberg",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "BY",
+      "name": "Bayern",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "BE",
+      "name": "Berlin",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "BB",
+      "name": "Brandenburg",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "HB",
+      "name": "Bremen",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "HH",
+      "name": "Hamburg",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "HE",
+      "name": "Hessen",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "MV",
+      "name": "Mecklenburg-Vorpommern",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "NI",
+      "name": "Niedersachsen",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "NW",
+      "name": "Nordrhein-Westfalen",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "RP",
+      "name": "Rheinland-Pfalz",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "SL",
+      "name": "Saarland",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "SN",
+      "name": "Sachsen",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "ST",
+      "name": "Sachsen-Anhalt",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "SH",
+      "name": "Schleswig-Holstein",
+      "country": "DE"
+    },
+    {
+      "abbreviation": "TH",
+      "name": "Thüringen",
+      "country": "DE"
+    }
+  ]
 }

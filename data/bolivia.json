@@ -1,119 +1,579 @@
 {
-	"name":"Bolivia",
-	"altSpellings":["BO","Buliwya","Wuliwya","Plurinational State of Bolivia","Estado Plurinacional de Bolivia","Buliwya Mamallaqta","Wuliwya Suyu","Tetã Volívia"],
-	"ISO":{"alpha2":"BO","alpha3":"BOL"},
-	"states": [
-		{ "name": "Cercado", "region": "Beni", "country": "BO" },
-		{ "name": "Iténez", "region": "Beni", "country": "BO" },
-		{ "name": "José Ballivián", "region": "Beni", "country": "BO" },
-		{ "name": "Mamoré", "region": "Beni", "country": "BO" },
-		{ "name": "Marbán", "region": "Beni", "country": "BO" },
-		{ "name": "Moxos", "region": "Beni", "country": "BO" },
-		{ "name": "Vaca Díez", "region": "Beni", "country": "BO" },
-		{ "name": "Yacuma", "region": "Beni", "country": "BO" },
-		{ "name": "Azurduy", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Belisario Boeto", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Hernando Siles", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Jaime Zudáñez", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Luis Calvo", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Nor Cinti", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Oropeza", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Sud Cinti", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Tomina", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Yamparáez", "region": "Chuquisaca", "country": "BO" },
-		{ "name": "Arani", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Arque", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Ayopaya", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Capinota", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Carrasco", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Cercado", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Chapare", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Esteban Arce", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Germán Jordán", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Mizque", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Campero", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Punata", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Quillacollo", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Bolívar", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Tapacarí", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Tiraque", "region": "Cochabamba", "country": "BO" },
-		{ "name": "Abel Iturralde", "region": "La Paz", "country": "BO" },
-		{ "name": "Aroma", "region": "La Paz", "country": "BO" },
-		{ "name": "Bautista Saavedra", "region": "La Paz", "country": "BO" },
-		{ "name": "Caranavi", "region": "La Paz", "country": "BO" },
-		{ "name": "Eliodoro Camacho", "region": "La Paz", "country": "BO" },
-		{ "name": "Franz Tamayo", "region": "La Paz", "country": "BO" },
-		{ "name": "Gualberto Villarroel", "region": "La Paz", "country": "BO" },
-		{ "name": "Ingavi", "region": "La Paz", "country": "BO" },
-		{ "name": "Inquisivi", "region": "La Paz", "country": "BO" },
-		{ "name": "José Manuel Pando", "region": "La Paz", "country": "BO" },
-		{ "name": "Larecaja", "region": "La Paz", "country": "BO" },
-		{ "name": "Loayza", "region": "La Paz", "country": "BO" },
-		{ "name": "Los Andes", "region": "La Paz", "country": "BO" },
-		{ "name": "Manco Kapac", "region": "La Paz", "country": "BO" },
-		{ "name": "Muñecas", "region": "La Paz", "country": "BO" },
-		{ "name": "Nor Yungas", "region": "La Paz", "country": "BO" },
-		{ "name": "Omasuyos", "region": "La Paz", "country": "BO" },
-		{ "name": "Pacajes", "region": "La Paz", "country": "BO" },
-		{ "name": "Murillo", "region": "La Paz", "country": "BO" },
-		{ "name": "Sud Yungas", "region": "La Paz", "country": "BO" },
-		{ "name": "Atahuallpa", "region": "Oruro", "country": "BO" },
-		{ "name": "Carangas", "region": "Oruro", "country": "BO" },
-		{ "name": "Cercado", "region": "Oruro", "country": "BO" },
-		{ "name": "Eduardo Avaroa", "region": "Oruro", "country": "BO" },
-		{ "name": "Ladislao Cabrera", "region": "Oruro", "country": "BO" },
-		{ "name": "Litoral", "region": "Oruro", "country": "BO" },
-		{ "name": "Nor Carangas", "region": "Oruro", "country": "BO" },
-		{ "name": "Pantaléon Dalence", "region": "Oruro", "country": "BO" },
-		{ "name": "Poopó", "region": "Oruro", "country": "BO" },
-		{ "name": "Puerto de Mejillones", "region": "Oruro", "country": "BO" },
-		{ "name": "Sajama", "region": "Oruro", "country": "BO" },
-		{ "name": "San Pedro de Totora", "region": "Oruro", "country": "BO" },
-		{ "name": "Saucarí", "region": "Oruro", "country": "BO" },
-		{ "name": "Sebastián Pagador", "region": "Oruro", "country": "BO" },
-		{ "name": "Sud Carangas", "region": "Oruro", "country": "BO" },
-		{ "name": "Tomas Barrón", "region": "Oruro", "country": "BO" },
-		{ "name": "Abuná", "region": "Pando", "country": "BO" },
-		{ "name": "Federico Román", "region": "Pando", "country": "BO" },
-		{ "name": "Madre de Dios", "region": "Pando", "country": "BO" },
-		{ "name": "Manuripi", "region": "Pando", "country": "BO" },
-		{ "name": "Nicolás Suárez", "region": "Pando", "country": "BO" },
-		{ "name": "Alonso de Ibáñez", "region": "Potosí", "country": "BO" },
-		{ "name": "Antonio Quijarro", "region": "Potosí", "country": "BO" },
-		{ "name": "Bernardino Bilbao", "region": "Potosí", "country": "BO" },
-		{ "name": "Charcas", "region": "Potosí", "country": "BO" },
-		{ "name": "Chayanta", "region": "Potosí", "country": "BO" },
-		{ "name": "Cornelio Saavedra", "region": "Potosí", "country": "BO" },
-		{ "name": "Daniel Campos", "region": "Potosí", "country": "BO" },
-		{ "name": "Enrique Baldivieso", "region": "Potosí", "country": "BO" },
-		{ "name": "José María Linares", "region": "Potosí", "country": "BO" },
-		{ "name": "Modesto Omiste", "region": "Potosí", "country": "BO" },
-		{ "name": "Nor Chichas", "region": "Potosí", "country": "BO" },
-		{ "name": "Nor Lípez", "region": "Potosí", "country": "BO" },
-		{ "name": "Rafael Bustillo", "region": "Potosí", "country": "BO" },
-		{ "name": "Sur Chichas", "region": "Potosí", "country": "BO" },
-		{ "name": "Sur Lípez", "region": "Potosí", "country": "BO" },
-		{ "name": "Tomás Frías", "region": "Potosí", "country": "BO" },
-		{ "name": "Andrés Ibáñez", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Ángel Sandoval", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Chiquitos", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Cordillera", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Florida", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Germán Busch", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Guarayos", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Ichilo", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Ignacio Warnes", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "José Miguel de Velasco", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Manuel María Caballero", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Ñuflo de Chávez", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Obispo Santistevan", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Sara", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Vallegrande", "region": "Santa Cruz", "country": "BO" },
-		{ "name": "Aniceto Arce", "region": "Tarija", "country": "BO" },
-		{ "name": "Burnet O'Connor", "region": "Tarija", "country": "BO" },
-		{ "name": "Cercado", "region": "Tarija", "country": "BO" },
-		{ "name": "Eustaquio Méndez", "region": "Tarija", "country": "BO" },
-		{ "name": "Gran Chaco", "region": "Tarija", "country": "BO" },
-		{ "name": "José María Avilés", "region": "Tarija", "country": "BO" }	
-	]
+  "name": "Bolivia",
+  "altSpellings": [
+    "BO",
+    "Buliwya",
+    "Wuliwya",
+    "Plurinational State of Bolivia",
+    "Estado Plurinacional de Bolivia",
+    "Buliwya Mamallaqta",
+    "Wuliwya Suyu",
+    "Tetã Volívia"
+  ],
+  "ISO": {
+    "alpha2": "BO",
+    "alpha3": "BOL"
+  },
+  "states": [
+    {
+      "name": "Cercado",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Iténez",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "José Ballivián",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Mamoré",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Marbán",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Moxos",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Vaca Díez",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Yacuma",
+      "region": "Beni",
+      "country": "BO"
+    },
+    {
+      "name": "Azurduy",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Belisario Boeto",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Hernando Siles",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Jaime Zudáñez",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Luis Calvo",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Nor Cinti",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Oropeza",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Sud Cinti",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Tomina",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Yamparáez",
+      "region": "Chuquisaca",
+      "country": "BO"
+    },
+    {
+      "name": "Arani",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Arque",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Ayopaya",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Capinota",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Carrasco",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Cercado",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Chapare",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Esteban Arce",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Germán Jordán",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Mizque",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Campero",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Punata",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Quillacollo",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Bolívar",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Tapacarí",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Tiraque",
+      "region": "Cochabamba",
+      "country": "BO"
+    },
+    {
+      "name": "Abel Iturralde",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Aroma",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Bautista Saavedra",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Caranavi",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Eliodoro Camacho",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Franz Tamayo",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Gualberto Villarroel",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Ingavi",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Inquisivi",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "José Manuel Pando",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Larecaja",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Loayza",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Los Andes",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Manco Kapac",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Muñecas",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Nor Yungas",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Omasuyos",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Pacajes",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Murillo",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Sud Yungas",
+      "region": "La Paz",
+      "country": "BO"
+    },
+    {
+      "name": "Atahuallpa",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Carangas",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Cercado",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Eduardo Avaroa",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Ladislao Cabrera",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Litoral",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Nor Carangas",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Pantaléon Dalence",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Poopó",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Puerto de Mejillones",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Sajama",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "San Pedro de Totora",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Saucarí",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Sebastián Pagador",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Sud Carangas",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Tomas Barrón",
+      "region": "Oruro",
+      "country": "BO"
+    },
+    {
+      "name": "Abuná",
+      "region": "Pando",
+      "country": "BO"
+    },
+    {
+      "name": "Federico Román",
+      "region": "Pando",
+      "country": "BO"
+    },
+    {
+      "name": "Madre de Dios",
+      "region": "Pando",
+      "country": "BO"
+    },
+    {
+      "name": "Manuripi",
+      "region": "Pando",
+      "country": "BO"
+    },
+    {
+      "name": "Nicolás Suárez",
+      "region": "Pando",
+      "country": "BO"
+    },
+    {
+      "name": "Alonso de Ibáñez",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Antonio Quijarro",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Bernardino Bilbao",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Charcas",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Chayanta",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Cornelio Saavedra",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Daniel Campos",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Enrique Baldivieso",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "José María Linares",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Modesto Omiste",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Nor Chichas",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Nor Lípez",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Rafael Bustillo",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Sur Chichas",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Sur Lípez",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Tomás Frías",
+      "region": "Potosí",
+      "country": "BO"
+    },
+    {
+      "name": "Andrés Ibáñez",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Ángel Sandoval",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Chiquitos",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Cordillera",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Florida",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Germán Busch",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Guarayos",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Ichilo",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Ignacio Warnes",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "José Miguel de Velasco",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Manuel María Caballero",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Ñuflo de Chávez",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Obispo Santistevan",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Sara",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Vallegrande",
+      "region": "Santa Cruz",
+      "country": "BO"
+    },
+    {
+      "name": "Aniceto Arce",
+      "region": "Tarija",
+      "country": "BO"
+    },
+    {
+      "name": "Burnet O'Connor",
+      "region": "Tarija",
+      "country": "BO"
+    },
+    {
+      "name": "Cercado",
+      "region": "Tarija",
+      "country": "BO"
+    },
+    {
+      "name": "Eustaquio Méndez",
+      "region": "Tarija",
+      "country": "BO"
+    },
+    {
+      "name": "Gran Chaco",
+      "region": "Tarija",
+      "country": "BO"
+    },
+    {
+      "name": "José María Avilés",
+      "region": "Tarija",
+      "country": "BO"
+    }
+  ]
 }

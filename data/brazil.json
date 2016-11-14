@@ -1,34 +1,150 @@
 {
-	"name":"Brazil",
-	"altSpellings":["BR","Brasil","Federative Republic of Brazil","República Federativa do Brasil"],
-	"ISO":{"alpha2":"BR","alpha3":"BRA"},
-	"states": [
-		{"abbreviation":"AC","name":"Acre","country":"BR"},
-		{"abbreviation":"AL","name":"Alagoas","country":"BR"},
-		{"abbreviation":"AP","name":"Amapá","country":"BR"},
-		{"abbreviation":"AM","name":"Amazonas","country":"BR"},
-		{"abbreviation":"BA","name":"Bahia","country":"BR"},
-		{"abbreviation":"CE","name":"Ceará","country":"BR"},
-		{"abbreviation":"DF","name":"Distrito Federal","country":"BR"},
-		{"abbreviation":"ES","name":"Espírito Santo","country":"BR"},
-		{"abbreviation":"GO","name":"Goiás","country":"BR"},
-		{"abbreviation":"MA","name":"Maranhão","country":"BR"},
-		{"abbreviation":"MT","name":"Mato Grosso","country":"BR"},
-		{"abbreviation":"MS","name":"Mato Grosso do Sul","country":"BR"},
-		{"abbreviation":"MG","name":"Minas Gerais","country":"BR"},
-		{"abbreviation":"PA","name":"Pará","country":"BR"},
-		{"abbreviation":"PB","name":"Paraíba","country":"BR"},
-		{"abbreviation":"PR","name":"Paraná","country":"BR"},
-		{"abbreviation":"PE","name":"Pernambuco","country":"BR"},
-		{"abbreviation":"PI","name":"Piauí","country":"BR"},
-		{"abbreviation":"RJ","name":"Rio de Janeiro","country":"BR"},
-		{"abbreviation":"RN","name":"Rio Grande do Norte","country":"BR"},
-		{"abbreviation":"RS","name":"Rio Grande do Sul","country":"BR"},
-		{"abbreviation":"RO","name":"Rondônia","country":"BR"},
-		{"abbreviation":"RR","name":"Roraima","country":"BR"},
-		{"abbreviation":"SC","name":"Santa Catarina","country":"BR"},
-		{"abbreviation":"SP","name":"São Paulo","country":"BR"},
-		{"abbreviation":"SE","name":"Sergipe","country":"BR"},
-		{"abbreviation":"TO","name":"Tocantins","country":"BR"}
-	]
+  "name": "Brazil",
+  "altSpellings": [
+    "BR",
+    "Brasil",
+    "Federative Republic of Brazil",
+    "República Federativa do Brasil"
+  ],
+  "ISO": {
+    "alpha2": "BR",
+    "alpha3": "BRA"
+  },
+  "states": [
+    {
+      "abbreviation": "AC",
+      "name": "Acre",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "AL",
+      "name": "Alagoas",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "AP",
+      "name": "Amapá",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "AM",
+      "name": "Amazonas",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "BA",
+      "name": "Bahia",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "CE",
+      "name": "Ceará",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "DF",
+      "name": "Distrito Federal",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "ES",
+      "name": "Espírito Santo",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "GO",
+      "name": "Goiás",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "MA",
+      "name": "Maranhão",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "MT",
+      "name": "Mato Grosso",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "MS",
+      "name": "Mato Grosso do Sul",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "MG",
+      "name": "Minas Gerais",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "PA",
+      "name": "Pará",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "PB",
+      "name": "Paraíba",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "PR",
+      "name": "Paraná",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "PE",
+      "name": "Pernambuco",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "PI",
+      "name": "Piauí",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "RJ",
+      "name": "Rio de Janeiro",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "RN",
+      "name": "Rio Grande do Norte",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "RS",
+      "name": "Rio Grande do Sul",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "RO",
+      "name": "Rondônia",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "RR",
+      "name": "Roraima",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "SC",
+      "name": "Santa Catarina",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "SP",
+      "name": "São Paulo",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "SE",
+      "name": "Sergipe",
+      "country": "BR"
+    },
+    {
+      "abbreviation": "TO",
+      "name": "Tocantins",
+      "country": "BR"
+    }
+  ]
 }
