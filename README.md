@@ -177,10 +177,13 @@ Bangladesh (BD)
 Pakistan (PK)
 Nigeria (NG)
 Japan (JP)
-austria (AT)
-brazil (BR)
+Austria (AT)
+Brazil (BR)
 Philippines (PH)
 Vietnam (VN)
+South Korea (KR)
+France (FR)
+Italy (IT)
 
 ## Special Thanks
 
