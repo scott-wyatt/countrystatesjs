@@ -1,0 +1,40 @@
+{
+  "name": "Finland",
+  "altSpellings": [
+    "FI",
+    "Suomi",
+    "Republic of Finland",
+    "Suomen tasavalta",
+    "Republiken Finland"
+  ],
+  "ISO": {
+    "alpha2": "FI",
+    "alpha3": "FIN"
+  },
+  "states": [
+    {
+      "name": "Aland",
+      "country": "FI"
+    },
+    {
+      "name": "Etela-Suomen Laani",
+      "country": "FI"
+    },
+    {
+      "name": "Ita-Suomen Laani",
+      "country": "FI"
+    },
+    {
+      "name": "Lansi-Suomen Laani",
+      "country": "FI"
+    },
+    {
+      "name": "Lappi",
+      "country": "FI"
+    },
+    {
+      "name": "Oulun Laani",
+      "country": "FI"
+    }
+  ]
+}

@@ -184,6 +184,7 @@ Vietnam (VN)
 South Korea (KR)
 France (FR)
 Italy (IT)
+Finland (FI)
 
 ## Special Thanks
 
