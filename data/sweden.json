@@ -1,0 +1,98 @@
+{
+  "name": "Sweden",
+  "altSpellings": [
+    "SE",
+    "Kingdom of Sweden",
+    "Konungariket Sverige"
+  ],
+  "ISO": {
+    "alpha2": "SE",
+    "alpha3": "SWE"
+  },
+  "states": [
+    {
+      "name": "Blekinge",
+      "country": "SE"
+    },
+    {
+      "name": "Dalarnas",
+      "country": "SE"
+    },
+    {
+      "name": "Gavleborgs",
+      "country": "SE"
+    },
+    {
+      "name": "Gotlands",
+      "country": "SE"
+    },
+    {
+      "name": "Hallands",
+      "country": "SE"
+    },
+    {
+      "name": "Jamtlands",
+      "country": "SE"
+    },
+    {
+      "name": "Jonkopings",
+      "country": "SE"
+    },
+    {
+      "name": "Kalmar",
+      "country": "SE"
+    },
+    {
+      "name": "Kronobergs",
+      "country": "SE"
+    },
+    {
+      "name": "Norrbottens",
+      "country": "SE"
+    },
+    {
+      "name": "Orebro",
+      "country": "SE"
+    },
+    {
+      "name": "Ostergotlands",
+      "country": "SE"
+    },
+    {
+      "name": "Skane",
+      "country": "SE"
+    },
+    {
+      "name": "Sodermanlands",
+      "country": "SE"
+    },
+    {
+      "name": "Stockholms",
+      "country": "SE"
+    },
+    {
+      "name": "Uppsala",
+      "country": "SE"
+    },
+    {
+      "name": "Varmlands",
+      "country": "SE"
+    },
+    {
+      "name": "Vasterbottens",
+      "country": "SE"
+    },
+    {
+      "name": "Vasternorrlands",
+      "country": "SE"
+    },
+    {
+      "name": "Vastmanlands",
+      "country": "SE"
+    },
+    {
+      "name": "Vastra Gotalands",
+      "country": "SE"
+    }
+  ]
+}

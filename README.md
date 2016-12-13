@@ -9,7 +9,7 @@
 [![Test Coverage](https://codeclimate.com/github/scott-wyatt/countrystatesjs/badges/coverage.svg)](https://codeclimate.com/github/scott-wyatt/countrystatesjs)
 [![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat)](http://js.org)
 
-A Node.js module for returning data about states/provinces within countries.
+A Node.js module for returning data about states/provinces within countries and preforming state/province lookups fast.
 
 ## Table of Contents
 
@@ -185,6 +185,7 @@ South Korea (KR)
 France (FR)
 Italy (IT)
 Finland (FI)
+Sweden (SE)
 
 ## Special Thanks
 
