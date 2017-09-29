@@ -11,136 +11,43 @@
     },
     "states": [
       {
-        "name": "Amazonas",
+        "name": "Bocas del Toro",
         "country": "PA"
       },
       {
-        "name": "Antioquia",
+        "name": "Coclé",
         "country": "PA"
       },
       {
-        "name": "Arauca",
+        "name": "Colón",
         "country": "PA"
       },
       {
-        "name": "Atlántico",
+        "name": "Chiriquí",
         "country": "PA"
       },
       {
-        "name": "Bogotá",
+        "name": "Darién",
         "country": "PA"
       },
       {
-        "name": "Bolívar",
+        "name": "Herrera",
         "country": "PA"
       },
       {
-        "name": "Boyacá",
+        "name": "Los Santos",
         "country": "PA"
       },
       {
-        "name": "Caldas",
+        "name": "Panamá",
         "country": "PA"
       },
       {
-        "name": "Caquetá",
+        "name": "Veraguas",
         "country": "PA"
       },
       {
-        "name": "Casanare",
-        "country": "PA"
-      },
-      {
-        "name": "Cauca",
-        "country": "PA"
-      },
-      {
-        "name": "Cesar",
-        "country": "PA"
-      },
-      {
-        "name": "Chocó",
-        "country": "PA"
-      },
-      {
-        "name": "Córdoba",
-        "country": "PA"
-      },
-      {
-        "name": "Cundinamarca",
-        "country": "PA"
-      },
-      {
-        "name": "Guainía",
-        "country": "PA"
-      },
-      {
-        "name": "Guaviare",
-        "country": "PA"
-      },
-      {
-        "name": "Huila",
-        "country": "PA"
-      },
-      {
-        "name": "La Guajira",
-        "country": "PA"
-      },
-      {
-        "name": "Magdalena",
-        "country": "PA"
-      },
-      {
-        "name": "Meta",
-        "country": "PA"
-      },
-      {
-        "name": "Nariño",
-        "country": "PA"
-      },
-      {
-        "name": "Norte de Santander",
-        "country": "PA"
-      },
-      {
-        "name": "Putumayo",
-        "country": "PA"
-      },
-      {
-        "name": "Guainía",
-        "country": "PA"
-      },
-      {
-        "name": "Quindío",
-        "country": "PA"
-      },
-      {
-        "name": "San Andrés y Providencia",
-        "country": "PA"
-      },
-      {
-        "name": "Santander",
-        "country": "PA"
-      },
-      {
-        "name": "Sucre",
-        "country": "PA"
-      },
-      {
-        "name": "Tolima",
-        "country": "PA"
-      },
-      {
-        "name": "Valle del Cauca",
-        "country": "PA"
-      },
-      {
-        "name": "Vaupés",
-        "country": "PA"
-      }
-      ,
-      {
-        "name": "Vichada",
+        "name": "Panamá Oeste",
         "country": "PA"
       }
     ]
