@@ -1,147 +1,147 @@
 {
-    "name": "Colombia",
+    "name": "Panama",
     "altSpellings": [
-      "CO",
-      "Republic of Colombia",
-      "República de Colombia"
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
     ],
     "ISO": {
-      "alpha2": "CO",
-      "alpha3": "COL"
+      "alpha2": "PA",
+      "alpha3": "PAN"
     },
     "states": [
       {
         "name": "Amazonas",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Antioquia",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Arauca",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Atlántico",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Bogotá",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Bolívar",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Boyacá",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Caldas",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Caquetá",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Casanare",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Cauca",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Cesar",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Chocó",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Córdoba",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Cundinamarca",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Guainía",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Guaviare",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Huila",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "La Guajira",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Magdalena",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Meta",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Nariño",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Norte de Santander",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Putumayo",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Guainía",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Quindío",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "San Andrés y Providencia",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Santander",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Sucre",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Tolima",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Valle del Cauca",
-        "country": "CO"
+        "country": "PA"
       },
       {
         "name": "Vaupés",
-        "country": "CO"
+        "country": "PA"
       }
       ,
       {
         "name": "Vichada",
-        "country": "CO"
+        "country": "PA"
       }
     ]
   }
