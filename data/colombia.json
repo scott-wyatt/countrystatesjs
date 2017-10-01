@@ -1,0 +1,148 @@
+{
+    "name": "Colombia",
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "ISO": {
+      "alpha2": "CO",
+      "alpha3": "COL"
+    },
+    "states": [
+      {
+        "name": "Amazonas",
+        "country": "CO"
+      },
+      {
+        "name": "Antioquia",
+        "country": "CO"
+      },
+      {
+        "name": "Arauca",
+        "country": "CO"
+      },
+      {
+        "name": "Atlántico",
+        "country": "CO"
+      },
+      {
+        "name": "Bogotá",
+        "country": "CO"
+      },
+      {
+        "name": "Bolívar",
+        "country": "CO"
+      },
+      {
+        "name": "Boyacá",
+        "country": "CO"
+      },
+      {
+        "name": "Caldas",
+        "country": "CO"
+      },
+      {
+        "name": "Caquetá",
+        "country": "CO"
+      },
+      {
+        "name": "Casanare",
+        "country": "CO"
+      },
+      {
+        "name": "Cauca",
+        "country": "CO"
+      },
+      {
+        "name": "Cesar",
+        "country": "CO"
+      },
+      {
+        "name": "Chocó",
+        "country": "CO"
+      },
+      {
+        "name": "Córdoba",
+        "country": "CO"
+      },
+      {
+        "name": "Cundinamarca",
+        "country": "CO"
+      },
+      {
+        "name": "Guainía",
+        "country": "CO"
+      },
+      {
+        "name": "Guaviare",
+        "country": "CO"
+      },
+      {
+        "name": "Huila",
+        "country": "CO"
+      },
+      {
+        "name": "La Guajira",
+        "country": "CO"
+      },
+      {
+        "name": "Magdalena",
+        "country": "CO"
+      },
+      {
+        "name": "Meta",
+        "country": "CO"
+      },
+      {
+        "name": "Nariño",
+        "country": "CO"
+      },
+      {
+        "name": "Norte de Santander",
+        "country": "CO"
+      },
+      {
+        "name": "Putumayo",
+        "country": "CO"
+      },
+      {
+        "name": "Guainía",
+        "country": "CO"
+      },
+      {
+        "name": "Quindío",
+        "country": "CO"
+      },
+      {
+        "name": "San Andrés y Providencia",
+        "country": "CO"
+      },
+      {
+        "name": "Santander",
+        "country": "CO"
+      },
+      {
+        "name": "Sucre",
+        "country": "CO"
+      },
+      {
+        "name": "Tolima",
+        "country": "CO"
+      },
+      {
+        "name": "Valle del Cauca",
+        "country": "CO"
+      },
+      {
+        "name": "Vaupés",
+        "country": "CO"
+      }
+      ,
+      {
+        "name": "Vichada",
+        "country": "CO"
+      }
+    ]
+  }
+  

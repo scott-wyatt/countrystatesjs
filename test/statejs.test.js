@@ -84,4 +84,28 @@ describe('statejs', function () {
     })
     done()
   })
+  it('should get name for Colombia', function (done) {
+    var tester = country.name('CO')
+    expect(tester).to.be.a('string')
+    done()
+  })
+  it('should get list of states for Colombia', function (done) {
+    var tester = country.provinces('CO')
+    expect(tester).to.be.an('array')
+    expect(tester.length).to.equal(33)
+    expect(tester[0]).to.be.a('object')
+    done()
+  })
+  it('should get name for Panama', function (done) {
+    var tester = country.name('PA')
+    expect(tester).to.be.a('string')
+    done()
+  })
+  it('should get list of states for Panama', function (done) {
+    var tester = country.provinces('PA')
+    expect(tester).to.be.an('array')
+    expect(tester.length).to.equal(10)
+    expect(tester[0]).to.be.a('object')
+    done()
+  })
 })

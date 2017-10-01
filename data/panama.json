@@ -1,0 +1,55 @@
+{
+    "name": "Panama",
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "ISO": {
+      "alpha2": "PA",
+      "alpha3": "PAN"
+    },
+    "states": [
+      {
+        "name": "Bocas del Toro",
+        "country": "PA"
+      },
+      {
+        "name": "Coclé",
+        "country": "PA"
+      },
+      {
+        "name": "Colón",
+        "country": "PA"
+      },
+      {
+        "name": "Chiriquí",
+        "country": "PA"
+      },
+      {
+        "name": "Darién",
+        "country": "PA"
+      },
+      {
+        "name": "Herrera",
+        "country": "PA"
+      },
+      {
+        "name": "Los Santos",
+        "country": "PA"
+      },
+      {
+        "name": "Panamá",
+        "country": "PA"
+      },
+      {
+        "name": "Veraguas",
+        "country": "PA"
+      },
+      {
+        "name": "Panamá Oeste",
+        "country": "PA"
+      }
+    ]
+  }
+  
