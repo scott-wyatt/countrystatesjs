@@ -10,83 +10,8 @@
   },
   "states": [
     {
-      "name": "La Coruña",
-      "abbreviation": "C",
-      "country": "ES"
-    },
-    {
-      "name": "Lugo",
-      "abbreviation": "LU",
-      "country": "ES"
-    },
-    {
-      "name": "Vizcaya",
-      "abbreviation": "BI",
-      "country": "ES"
-    },
-    {
-      "name": "Guipúzcoa",
-      "abbreviation": "SS",
-      "country": "ES"
-    },
-    {
-      "name": "Huesca",
-      "abbreviation": "HU",
-      "country": "ES"
-    },
-    {
-      "name": "Lérida",
-      "abbreviation": "L",
-      "country": "ES"
-    },
-    {
-      "name": "Gerona",
-      "abbreviation": "GI",
-      "country": "ES"
-    },
-    {
-      "name": "Barcelona",
-      "abbreviation": "B",
-      "country": "ES"
-    },
-    {
-      "name": "Tarragona",
-      "abbreviation": "T",
-      "country": "ES"
-    },
-    {
-      "name": "Castellón",
-      "abbreviation": "CS",
-      "country": "ES"
-    },
-    {
-      "name": "Valencia",
-      "abbreviation": "V",
-      "country": "ES"
-    },
-    {
-      "name": "Alicante",
-      "abbreviation": "A",
-      "country": "ES"
-    },
-    {
-      "name": "Murcia",
-      "abbreviation": "MU",
-      "country": "ES"
-    },
-    {
-      "name": "Zaragoza",
-      "abbreviation": "Z",
-      "country": "ES"
-    },
-    {
-      "name": "Teruel",
-      "abbreviation": "TE",
-      "country": "ES"
-    },
-    {
-      "name": "Cuenca",
-      "abbreviation": "CU",
+      "name": "Álava",
+      "abbreviation": "VI",
       "country": "ES"
     },
     {
@@ -95,83 +20,18 @@
       "country": "ES"
     },
     {
-      "name": "Almeria",
+      "name": "Alicante",
+      "abbreviation": "A",
+      "country": "ES"
+    },
+    {
+      "name": "Almería",
       "abbreviation": "AL",
       "country": "ES"
     },
     {
-      "name": "Granada",
-      "abbreviation": "GR",
-      "country": "ES"
-    },
-    {
-      "name": "Málaga",
-      "abbreviation": "MA",
-      "country": "ES"
-    },
-    {
-      "name": "Tenerife",
-      "abbreviation": "TF",
-      "country": "ES"
-    },
-    {
-      "name": "Cádiz",
-      "abbreviation": "CA",
-      "country": "ES"
-    },
-    {
-      "name": "Sevilla",
-      "abbreviation": "SE",
-      "country": "ES"
-    },
-    {
-      "name": "Huelva",
-      "abbreviation": "H",
-      "country": "ES"
-    },
-    {
-      "name": "Las Palmas",
-      "abbreviation": "GC",
-      "country": "ES"
-    },
-    {
-      "name": "Madrid",
-      "abbreviation": "M",
-      "country": "ES"
-    },
-    {
-      "name": "Badajoz",
-      "abbreviation": "BA",
-      "country": "ES"
-    },
-    {
-      "name": "Cáceres",
-      "abbreviation": "CC",
-      "country": "ES"
-    },
-    {
-      "name": "Toledo",
-      "abbreviation": "TO",
-      "country": "ES"
-    },
-    {
-      "name": "Ciudad Real",
-      "abbreviation": "CR",
-      "country": "ES"
-    },
-    {
-      "name": "Salamanca",
-      "abbreviation": "SA",
-      "country": "ES"
-    },
-    {
-      "name": "Córdoba",
-      "abbreviation": "CO",
-      "country": "ES"
-    },
-    {
-      "name": "Jaén",
-      "abbreviation": "J",
+      "name": "Asturias",
+      "abbreviation": "O",
       "country": "ES"
     },
     {
@@ -180,23 +40,18 @@
       "country": "ES"
     },
     {
-      "name": "Valladolid",
-      "abbreviation": "VA",
+      "name": "Badajoz",
+      "abbreviation": "BA",
       "country": "ES"
     },
     {
-      "name": "Zamora",
-      "abbreviation": "ZA",
+      "name": "Baleares",
+      "abbreviation": "PM",
       "country": "ES"
     },
     {
-      "name": "Álava",
-      "abbreviation": "VI",
-      "country": "ES"
-    },
-    {
-      "name": "Segovia",
-      "abbreviation": "SG",
+      "name": "Barcelona",
+      "abbreviation": "B",
       "country": "ES"
     },
     {
@@ -205,13 +60,133 @@
       "country": "ES"
     },
     {
-      "name": "Pontevedra",
-      "abbreviation": "PO",
+      "name": "Cáceres",
+      "abbreviation": "CC",
+      "country": "ES"
+    },
+    {
+      "name": "Cádiz",
+      "abbreviation": "CA",
+      "country": "ES"
+    },
+    {
+      "name": "Cantabria",
+      "abbreviation": "S",
+      "country": "ES"
+    },
+    {
+      "name": "Castellón",
+      "abbreviation": "CS",
+      "country": "ES"
+    },
+    {
+      "name": "Ceuta",
+      "abbreviation": "CE",
+      "country": "ES"
+    },
+    {
+      "name": "Ciudad Real",
+      "abbreviation": "CR",
+      "country": "ES"
+    },
+    {
+      "name": "Córdoba",
+      "abbreviation": "CO",
+      "country": "ES"
+    },
+    {
+      "name": "Cuenca",
+      "abbreviation": "CU",
+      "country": "ES"
+    },
+    {
+      "name": "Gerona",
+      "abbreviation": "GI",
+      "country": "ES"
+    },
+    {
+      "name": "Guipúzcoa",
+      "abbreviation": "SS",
+      "country": "ES"
+    },
+    {
+      "name": "Granada",
+      "abbreviation": "GR",
+      "country": "ES"
+    },
+    {
+      "name": "Guadalajara",
+      "abbreviation": "GU",
+      "country": "ES"
+    },
+    {
+      "name": "Huelva",
+      "abbreviation": "H",
+      "country": "ES"
+    },
+    {
+      "name": "Huesca",
+      "abbreviation": "HU",
+      "country": "ES"
+    },
+    {
+      "name": "Jaén",
+      "abbreviation": "J",
+      "country": "ES"
+    },
+    {
+      "name": "La Coruña",
+      "abbreviation": "C",
+      "country": "ES"
+    },
+    {
+      "name": "La Rioja",
+      "abbreviation": "LO",
+      "country": "ES"
+    },
+    {
+      "name": "Las Palmas",
+      "abbreviation": "GC",
       "country": "ES"
     },
     {
       "name": "León",
       "abbreviation": "LE",
+      "country": "ES"
+    },
+    {
+      "name": "Lérida",
+      "abbreviation": "L",
+      "country": "ES"
+    },
+    {
+      "name": "Lugo",
+      "abbreviation": "LU",
+      "country": "ES"
+    },
+    {
+      "name": "Madrid",
+      "abbreviation": "M",
+      "country": "ES"
+    },
+    {
+      "name": "Málaga",
+      "abbreviation": "MA",
+      "country": "ES"
+    },
+    {
+      "name": "Melilla",
+      "abbreviation": "ML",
+      "country": "ES"
+    },
+    {
+      "name": "Murcia",
+      "abbreviation": "MU",
+      "country": "ES"
+    },
+    {
+      "name": "Navarra",
+      "abbreviation": "NA",
       "country": "ES"
     },
     {
@@ -225,8 +200,28 @@
       "country": "ES"
     },
     {
-      "name": "La Rioja",
-      "abbreviation": "LO",
+      "name": "Pontevedra",
+      "abbreviation": "PO",
+      "country": "ES"
+    },
+    {
+      "name": "Salamanca",
+      "abbreviation": "SA",
+      "country": "ES"
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "abbreviation": "TF",
+      "country": "ES"
+    },
+    {
+      "name": "Segovia",
+      "abbreviation": "SG",
+      "country": "ES"
+    },
+    {
+      "name": "Sevilla",
+      "abbreviation": "SE",
       "country": "ES"
     },
     {
@@ -235,9 +230,44 @@
       "country": "ES"
     },
     {
-      "name": "Guadalajara",
-      "abbreviation": "GU",
+      "name": "Tarragona",
+      "abbreviation": "T",
       "country": "ES"
-    }
+    },
+    {
+      "name": "Teruel",
+      "abbreviation": "TE",
+      "country": "ES"
+    },
+    {
+      "name": "Toledo",
+      "abbreviation": "TO",
+      "country": "ES"
+    },
+    {
+      "name": "Valencia",
+      "abbreviation": "V",
+      "country": "ES"
+    },
+    {
+      "name": "Valladolid",
+      "abbreviation": "VA",
+      "country": "ES"
+    },
+    {
+      "name": "Vizcaya",
+      "abbreviation": "BI",
+      "country": "ES"
+    },
+    {
+      "name": "Zamora",
+      "abbreviation": "ZA",
+      "country": "ES"
+    },
+    {
+      "name": "Zaragoza",
+      "abbreviation": "Z",
+      "country": "ES"
+    }    
   ]
 }
